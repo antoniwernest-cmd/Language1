@@ -1,0 +1,12 @@
+{
+  "questions": 300,
+  "cuePictures": 180,
+  "pictureChoices": 450,
+  "sentenceChoices": 45,
+  "unrelatedSceneAssignments": 0,
+  "questionsAndAnswersUnchanged": true,
+  "questionAudioUnchanged": true,
+  "profileIdsUnchanged": true,
+  "progressStorageKeyUnchanged": true,
+  "allDisplayedPictureAssetsPresent": true
+}

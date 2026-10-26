@@ -1,0 +1,89 @@
+/* Drag whole sentences. Both paragraph tools stay visible at every size. */
+body[data-drag-builder] [data-piece]{touch-action:none;user-select:none;-webkit-user-select:none;cursor:grab;-webkit-touch-callout:none}
+body[data-drag-builder] [data-piece][aria-disabled=true]{cursor:default}
+body[data-drag-builder] [data-piece]:focus-visible{outline:3px solid #b77b31;outline-offset:2px}
+body[data-drag-builder] .drag-source{opacity:.35}
+body[data-drag-builder] .drop-target{outline:3px solid #507c68;outline-offset:-3px;background:#dcecdc!important}
+body[data-drag-builder].dragging,body[data-drag-builder].dragging *{cursor:grabbing!important}
+body[data-drag-builder] .drag-ghost{width:min(420px,75vw);font-size:19px;line-height:1.25;padding:13px;box-shadow:0 10px 32px #294b4938}
+body[data-drag-builder] .drag-grip{flex:none;color:#7c9082;font-size:22px;line-height:1}
+body[data-drag-builder] .workspace{--tile-max:24;--tile-min:12}
+body[data-drag-builder] [data-sentence-text]{min-width:0;flex:1;overflow-wrap:break-word}
+body[data-drag-builder=letter] .workspace{--tile-max:30}
+body[data-drag-builder=letter] .letter-row{grid-template-columns:22px 24px minmax(0,1fr);gap:10px;padding:10px;touch-action:none}
+body[data-drag-builder=letter] .letter-sentence{font-size:var(--tile-font,24px);line-height:1.22}
+body[data-drag-builder=letter] .letter-row[aria-disabled=true]{background:#e5efdf}
+body[data-drag-builder=paragraph] .work-grid{grid-template-columns:minmax(0,.23fr) minmax(0,.77fr)}
+body[data-drag-builder=paragraph] .workspace{display:flex;flex-direction:column;padding:14px;gap:9px;container-type:normal}
+body[data-drag-builder=paragraph] .question-prompt{font-size:22px}
+body[data-drag-builder=paragraph] .paragraph-area{gap:7px}
+body[data-drag-builder=paragraph] .builder-columns{grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:14px}
+body[data-drag-builder=paragraph] .builder-columns h3{display:block;margin:0;font-size:13px;line-height:1.2;letter-spacing:.5px;color:#536b61}
+body[data-drag-builder=paragraph] .bank-pool,body[data-drag-builder=paragraph] .paragraph-pool{display:grid!important;grid-template-rows:auto minmax(0,1fr);gap:9px;min-width:0;min-height:0;padding:12px;border:1px solid #dfd9e7;border-radius:14px;background:#f4f0f7}
+body[data-drag-builder=paragraph] .paragraph-pool{background:#f5f7ee;border-color:#d4dfce}
+body[data-drag-builder=paragraph] .paragraph-slots{display:grid;grid-template-columns:minmax(0,1fr);grid-template-rows:repeat(var(--slot-count,3),minmax(0,1fr));gap:8px}
+body[data-drag-builder=paragraph] .sentence-bank{display:grid;grid-template-columns:minmax(0,1fr);grid-auto-rows:minmax(0,1fr);gap:8px;min-height:0}
+body[data-drag-builder=paragraph] .slot-row{min-height:0}
+body[data-drag-builder=paragraph] .sentence-slot,body[data-drag-builder=paragraph] .bank-sentence{display:flex;align-items:center;gap:8px;width:100%;min-width:0;min-height:0;padding:9px;border-width:1px;font-size:var(--tile-font,24px);line-height:1.22;font-weight:500}
+body[data-drag-builder=paragraph] .sentence-slot.empty{font-size:clamp(14px,1.5vw,20px);font-weight:400}
+body[data-drag-builder=paragraph] .sentence-slot.filled{background:#fffdf6}
+body[data-drag-builder=paragraph] .sentence-slot[aria-disabled=true]{background:#e5efdf}
+body[data-drag-builder=paragraph] .slot-number{width:24px;height:27px;font-size:13px}
+body[data-drag-builder=paragraph] .paragraph-status{font-size:14px;line-height:1.25}
+body[data-drag-builder=paragraph] .feedback{font-size:15px}
+body[data-drag-builder=paragraph] .question-actions{min-height:38px}
+body[data-drag-builder=paragraph] .question-actions button{font-size:13px;min-height:36px}
+body[data-drag-builder=paragraph] .check-paragraph[hidden]{display:inline-flex!important;visibility:hidden}
+body[data-drag-builder=paragraph] .pool-tabs{display:none!important}
+@media(max-width:1200px){
+ body[data-drag-builder=paragraph] .work-grid{grid-template-columns:1fr}body[data-drag-builder=paragraph] .scene-panel{display:none}
+ body[data-drag-builder=paragraph] .view-tools{display:flex}
+ body[data-drag-builder=paragraph] .activity-frame[data-view=picture] .scene-panel{display:grid}
+ body[data-drag-builder=paragraph] .activity-frame[data-view=picture] .workspace{display:none}
+}
+@media(max-width:700px){
+ body[data-drag-builder] .workspace{--tile-max:22;padding:9px;gap:7px}
+ body[data-drag-builder=letter] .workspace{--tile-max:24}
+ body[data-drag-builder=letter] .letter-row{grid-template-columns:14px 20px minmax(0,1fr);gap:6px;padding:6px}
+ body[data-drag-builder=paragraph] .question-prompt{font-size:17px}
+ body[data-drag-builder=paragraph] .builder-columns{gap:7px}
+ body[data-drag-builder=paragraph] .bank-pool,body[data-drag-builder=paragraph] .paragraph-pool{padding:7px;gap:7px;border-radius:10px}
+ body[data-drag-builder=paragraph] .builder-columns h3{font-size:10px;letter-spacing:0}
+ body[data-drag-builder=paragraph] .sentence-bank,body[data-drag-builder=paragraph] .paragraph-slots{gap:6px}
+ body[data-drag-builder=paragraph] .sentence-slot,body[data-drag-builder=paragraph] .bank-sentence{padding:6px;gap:5px}
+ body[data-drag-builder=paragraph] .drag-grip{display:none}
+ body[data-drag-builder=paragraph] .slot-number{width:18px;height:21px;font-size:10px}
+ body[data-drag-builder=paragraph] .paragraph-status,body[data-drag-builder=paragraph] .feedback{font-size:11px}
+ body[data-drag-builder=paragraph] .sentence-slot.empty{font-size:13px}
+ body[data-drag-builder=paragraph] .question-actions{min-height:31px;gap:5px}
+ body[data-drag-builder=paragraph] .question-actions button{font-size:10px;min-height:30px;padding:5px 7px}
+ body[data-drag-builder] .drag-ghost{font-size:16px;padding:9px}
+}
+@media(max-height:580px){
+ body[data-drag-builder] .workspace{--tile-max:20;padding:7px;gap:5px}
+ body[data-drag-builder=letter] .letter-row{padding:3px 6px;gap:6px}
+ body[data-drag-builder=paragraph] .work-grid{grid-template-columns:1fr}
+ body[data-drag-builder=paragraph] .scene-panel{display:none}body[data-drag-builder=paragraph] .view-tools{display:flex}
+ body[data-drag-builder=paragraph] .question-prompt{font-size:15px}
+ body[data-drag-builder=paragraph] .paragraph-status,body[data-drag-builder=paragraph] .feedback{font-size:11px}
+ body[data-drag-builder=paragraph] .bank-pool,body[data-drag-builder=paragraph] .paragraph-pool{padding:6px;gap:5px}
+ body[data-drag-builder=paragraph] .builder-columns h3{font-size:10px}
+ body[data-drag-builder=paragraph] .sentence-bank,body[data-drag-builder=paragraph] .paragraph-slots{gap:4px}
+ body[data-drag-builder=paragraph] .sentence-slot,body[data-drag-builder=paragraph] .bank-sentence{padding:5px}
+ body[data-drag-builder=paragraph] .question-actions{min-height:27px}
+ body[data-drag-builder=paragraph] .question-actions button{font-size:10px;min-height:26px;padding:4px 7px}
+}
+@media print{
+ body[data-drag-builder] .workspace{--tile-font:17px!important}
+ body[data-drag-builder] .drag-grip,body[data-drag-builder] .drag-ghost{display:none!important}
+ body[data-drag-builder=letter] .letter-row{grid-template-columns:24px minmax(0,1fr)}
+ body[data-drag-builder=paragraph] .activity-frame{height:190mm;width:275mm;padding:0}
+ body[data-drag-builder=paragraph] .work-grid{grid-template-columns:.25fr .75fr}
+ body[data-drag-builder=paragraph] .workspace{display:flex!important}
+ body[data-drag-builder=paragraph] .builder-columns{grid-template-columns:1fr 1fr}
+ body[data-drag-builder=paragraph] .question-actions{display:none!important}
+}
+
+@media(max-height:580px){body[data-drag-builder=paragraph] .sentence-slot,body[data-drag-builder=paragraph] .bank-sentence{padding:3px 5px}body[data-drag-builder=paragraph] .feedback.correct{display:none}}
+
+@media(max-height:580px){body[data-drag-builder=paragraph] .bank-sentence .drag-grip{display:none}}

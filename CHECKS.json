@@ -1,0 +1,40 @@
+{
+  "activities": 10,
+  "questions": 300,
+  "questionsPerActivity": {
+    "build-word": 30,
+    "choose-word": 30,
+    "missing-letter": 30,
+    "word-chains": 30,
+    "read-match": 30,
+    "blend-sounds": 30,
+    "count-sounds": 30,
+    "change-sound": 30,
+    "delete-sound": 30,
+    "first-sound": 30
+  },
+  "autumnScenesUsed": 100,
+  "profiles": 20,
+  "wordPictures": 93,
+  "newPictureSheets": 8,
+  "audioClips": 408,
+  "audioBytes": 45954238,
+  "minimumAudioRms": 976,
+  "questionIdsUnique": true,
+  "wordChainsValidated": true,
+  "soundChangesValidated": true,
+  "deletionsValidated": true,
+  "firstSoundsValidated": true,
+  "assetsPresent": true,
+  "curriculumBrandingAbsent": true,
+  "assessmentWorkbook": {
+    "sheets": [
+      "Summary",
+      "Progress",
+      "Attempts",
+      "Guide"
+    ],
+    "progressRows": 300,
+    "dragTypeAndSupportRecordsVerified": true
+  }
+}

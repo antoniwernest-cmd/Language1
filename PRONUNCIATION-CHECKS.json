@@ -1,0 +1,274 @@
+{
+  "updatedQuestionClips": 120,
+  "isolatedSoundUnits": 212,
+  "continuousSoundsExtended": true,
+  "letterNamesAdded": false,
+  "extraVowelsAdded": false,
+  "stopSoundsKeptBrief": true,
+  "wholeWordInstructionsPreserved": true,
+  "countSoundsWordsUnchanged": true,
+  "firstSoundWordPlusModelledSound": true,
+  "sampleRate": 22050,
+  "channels": 1,
+  "bits": 16,
+  "mDurationMs": 1200,
+  "mPitchBeforeHz": 164.55,
+  "mPitchAfterHz": 154.2,
+  "mPitchDifferencePercent": 6.29,
+  "maxPeak": 26198,
+  "sample": "assets/audio/m-held-sample.wav",
+  "sounds": [
+    {
+      "phone": "k",
+      "sourceMs": 341.0,
+      "heldMs": 341.0,
+      "extended": false,
+      "stopKeptBrief": true,
+      "gain": 3.576,
+      "peak": 14489,
+      "rms": 1100.0
+    },
+    {
+      "phone": "æ",
+      "sourceMs": 498.96,
+      "heldMs": 900.0,
+      "extended": true,
+      "stopKeptBrief": false,
+      "gain": 1,
+      "peak": 19811,
+      "rms": 3728.21
+    },
+    {
+      "phone": "t",
+      "sourceMs": 333.92,
+      "heldMs": 333.92,
+      "extended": false,
+      "stopKeptBrief": true,
+      "gain": 1,
+      "peak": 9933,
+      "rms": 1111.31
+    },
+    {
+      "phone": "d",
+      "sourceMs": 313.65,
+      "heldMs": 313.65,
+      "extended": false,
+      "stopKeptBrief": true,
+      "gain": 1.214,
+      "peak": 6564,
+      "rms": 1100.0
+    },
+    {
+      "phone": "ɑ",
+      "sourceMs": 497.96,
+      "heldMs": 900.0,
+      "extended": true,
+      "stopKeptBrief": false,
+      "gain": 1,
+      "peak": 24608,
+      "rms": 5149.54
+    },
+    {
+      "phone": "g",
+      "sourceMs": 334.83,
+      "heldMs": 334.83,
+      "extended": false,
+      "stopKeptBrief": true,
+      "gain": 3.587,
+      "peak": 11170,
+      "rms": 1100.0
+    },
+    {
+      "phone": "s",
+      "sourceMs": 493.83,
+      "heldMs": 1100.0,
+      "extended": true,
+      "stopKeptBrief": false,
+      "gain": 3.383,
+      "peak": 9775,
+      "rms": 2199.99
+    },
+    {
+      "phone": "ʌ",
+      "sourceMs": 496.55,
+      "heldMs": 900.0,
+      "extended": true,
+      "stopKeptBrief": false,
+      "gain": 1,
+      "peak": 20803,
+      "rms": 4018.07
+    },
+    {
+      "phone": "n",
+      "sourceMs": 441.45,
+      "heldMs": 1200.0,
+      "extended": true,
+      "stopKeptBrief": false,
+      "gain": 1,
+      "peak": 12095,
+      "rms": 4277.39
+    },
+    {
+      "phone": "h",
+      "sourceMs": 489.93,
+      "heldMs": 700.0,
+      "extended": true,
+      "stopKeptBrief": false,
+      "gain": 1.609,
+      "peak": 12978,
+      "rms": 2199.95
+    },
+    {
+      "phone": "m",
+      "sourceMs": 452.15,
+      "heldMs": 1200.0,
+      "extended": true,
+      "stopKeptBrief": false,
+      "gain": 1,
+      "peak": 9406,
+      "rms": 2736.73
+    },
+    {
+      "phone": "p",
+      "sourceMs": 327.26,
+      "heldMs": 327.26,
+      "extended": false,
+      "stopKeptBrief": true,
+      "gain": 5.499,
+      "peak": 8297,
+      "rms": 1100.0
+    },
+    {
+      "phone": "b",
+      "sourceMs": 282.49,
+      "heldMs": 282.49,
+      "extended": false,
+      "stopKeptBrief": true,
+      "gain": 4.101,
+      "peak": 6647,
+      "rms": 1100.0
+    },
+    {
+      "phone": "l",
+      "sourceMs": 441.41,
+      "heldMs": 1000.0,
+      "extended": true,
+      "stopKeptBrief": false,
+      "gain": 1.193,
+      "peak": 9383,
+      "rms": 2200.0
+    },
+    {
+      "phone": "f",
+      "sourceMs": 489.02,
+      "heldMs": 1100.0,
+      "extended": true,
+      "stopKeptBrief": false,
+      "gain": 10.519,
+      "peak": 9782,
+      "rms": 2200.0
+    },
+    {
+      "phone": "ɪ",
+      "sourceMs": 498.28,
+      "heldMs": 900.0,
+      "extended": true,
+      "stopKeptBrief": false,
+      "gain": 1,
+      "peak": 15072,
+      "rms": 3662.76
+    },
+    {
+      "phone": "ɛ",
+      "sourceMs": 498.37,
+      "heldMs": 900.0,
+      "extended": true,
+      "stopKeptBrief": false,
+      "gain": 1,
+      "peak": 20610,
+      "rms": 3645.59
+    },
+    {
+      "phone": "v",
+      "sourceMs": 488.39,
+      "heldMs": 1100.0,
+      "extended": true,
+      "stopKeptBrief": false,
+      "gain": 6.342,
+      "peak": 12507,
+      "rms": 2199.96
+    },
+    {
+      "phone": "ʃ",
+      "sourceMs": 492.65,
+      "heldMs": 1100.0,
+      "extended": true,
+      "stopKeptBrief": false,
+      "gain": 1,
+      "peak": 20193,
+      "rms": 3954.41
+    },
+    {
+      "phone": "i",
+      "sourceMs": 498.41,
+      "heldMs": 900.0,
+      "extended": true,
+      "stopKeptBrief": false,
+      "gain": 1,
+      "peak": 15994,
+      "rms": 3938.37
+    },
+    {
+      "phone": "oʊ",
+      "sourceMs": 498.23,
+      "heldMs": 900.0,
+      "extended": true,
+      "stopKeptBrief": false,
+      "gain": 1,
+      "peak": 22411,
+      "rms": 3829.85
+    },
+    {
+      "phone": "r",
+      "sourceMs": 454.15,
+      "heldMs": 1000.0,
+      "extended": true,
+      "stopKeptBrief": false,
+      "gain": 1.032,
+      "peak": 7747,
+      "rms": 2199.99
+    },
+    {
+      "phone": "eɪ",
+      "sourceMs": 503.4,
+      "heldMs": 900.0,
+      "extended": true,
+      "stopKeptBrief": false,
+      "gain": 1,
+      "peak": 24028,
+      "rms": 5570.76
+    },
+    {
+      "phone": "tʃ",
+      "sourceMs": 483.9,
+      "heldMs": 483.9,
+      "extended": false,
+      "stopKeptBrief": true,
+      "gain": 1,
+      "peak": 15454,
+      "rms": 2475.96
+    },
+    {
+      "phone": "w",
+      "sourceMs": 450.02,
+      "heldMs": 600.0,
+      "extended": true,
+      "stopKeptBrief": false,
+      "gain": 1,
+      "peak": 16269,
+      "rms": 5103.67
+    }
+  ],
+  "questionIdsAndAnswersPreserved": true,
+  "savedProgressKeyUnchanged": true
+}

@@ -1,0 +1,702 @@
+[
+  {
+    "id": "001",
+    "title": "The runaway leaf pile",
+    "source": "Autumn/Outdoors/001-the-runaway-leaf-pile.png",
+    "sourceHash": "32c7583e88c7e68d2b5c34c0d1babcc9fff2da1936450392f50ba517142adc98",
+    "file": "assets/scenes/001.webp"
+  },
+  {
+    "id": "002",
+    "title": "The autumn lemonade stand",
+    "source": "Autumn/Outdoors/002-the-autumn-lemonade-stand.png",
+    "sourceHash": "3a95aba3c6e9a732097ac5683a11b3cc3679e9a713fa9c4e01659f2a4b032fe4",
+    "file": "assets/scenes/002.webp"
+  },
+  {
+    "id": "003",
+    "title": "The apple catch",
+    "source": "Autumn/Outdoors/003-the-apple-catch.png",
+    "sourceHash": "b5dbbc1948fb60204fba8ac3490ed41809005aa28c80c8627a1b90d09b7930dc",
+    "file": "assets/scenes/003.webp"
+  },
+  {
+    "id": "004",
+    "title": "The leaf boat race",
+    "source": "Autumn/Outdoors/004-the-leaf-boat-race.png",
+    "sourceHash": "e0c6cc9155aad2bc7abc609979e03d2cca24357869258192eb84b8763a178f4b",
+    "file": "assets/scenes/004.webp"
+  },
+  {
+    "id": "005",
+    "title": "The acorn visitor",
+    "source": "Autumn/Outdoors/005-the-acorn-visitor.png",
+    "sourceHash": "6c0b089be0e470d348612cff11be529e1e3c66085d87d14dc4fa405cfaf63131",
+    "file": "assets/scenes/005.webp"
+  },
+  {
+    "id": "006",
+    "title": "The partner wheelbarrow race",
+    "source": "Autumn/Outdoors/006-the-partner-wheelbarrow-race.png",
+    "sourceHash": "626db463cd4344fe21ab0f66af9f6c07694735d5c5b8bfe8ba188a3ff7d23680",
+    "file": "assets/scenes/006.webp"
+  },
+  {
+    "id": "007",
+    "title": "The Halloween costume parade",
+    "source": "Autumn/Outdoors/007-the-halloween-costume-parade.png",
+    "sourceHash": "b7cddeaa2d71f265c5d1672ad56f543a75d4cecd519fa34756d6fdd75ccf1975",
+    "file": "assets/scenes/007.webp"
+  },
+  {
+    "id": "008",
+    "title": "Driveway hockey in autumn",
+    "source": "Autumn/Outdoors/008-driveway-hockey-in-autumn.png",
+    "sourceHash": "aa755cf5e88b6efeb1ace1b47d6fd8803c5bd80b3cd5e7febfbe3174e307d9dd",
+    "file": "assets/scenes/008.webp"
+  },
+  {
+    "id": "009",
+    "title": "The autumn campfire",
+    "source": "Autumn/Outdoors/009-the-autumn-campfire.png",
+    "sourceHash": "a6cba5e05ca52f045aa4bd80c3747fa7141a55164dfe1888e42bf68869b0de82",
+    "file": "assets/scenes/009.webp"
+  },
+  {
+    "id": "010",
+    "title": "Skipping rope in the autumn yard",
+    "source": "Autumn/Outdoors/010-skipping-rope-in-the-autumn-yard.png",
+    "sourceHash": "7fd954f1ffbf50d7fd103a672687b230d8a5bdd54fb4ce540e7444def98982cf",
+    "file": "assets/scenes/010.webp"
+  },
+  {
+    "id": "011",
+    "title": "The leaf print mystery",
+    "source": "Autumn/Indoors/011-the-leaf-print-mystery.png",
+    "sourceHash": "72073de8c9b34eaf9c646762e191cb6f5c94dd61f714cf1f4804d6f3ef77e84d",
+    "file": "assets/scenes/011.webp"
+  },
+  {
+    "id": "012",
+    "title": "Measuring the biggest pumpkin",
+    "source": "Autumn/Indoors/012-measuring-the-biggest-pumpkin.png",
+    "sourceHash": "1f0493007be8ab513704dfbb2ca9e14b14e50e0058ddc3d14ca07a2b810afd3d",
+    "file": "assets/scenes/012.webp"
+  },
+  {
+    "id": "013",
+    "title": "The apple pie team",
+    "source": "Autumn/Indoors/013-the-apple-pie-team.png",
+    "sourceHash": "d03436a5fe18692655c0d1382c80677adedb51ae5f27f437cb2e719fd779741b",
+    "file": "assets/scenes/013.webp"
+  },
+  {
+    "id": "014",
+    "title": "The raindrop concert",
+    "source": "Autumn/Indoors/014-the-raindrop-concert.png",
+    "sourceHash": "1fc1e883ba2d3dc6457d00c3f1f1b5de5c840ad91e35d81410320a8763ed622e",
+    "file": "assets/scenes/014.webp"
+  },
+  {
+    "id": "015",
+    "title": "The autumn den",
+    "source": "Autumn/Indoors/015-the-autumn-den.png",
+    "sourceHash": "5c4d4992585434320c76f6df3ed751e40b7bbf9ef20720c5d169e12b013a5936",
+    "file": "assets/scenes/015.webp"
+  },
+  {
+    "id": "016",
+    "title": "The pinecone creature",
+    "source": "Autumn/Indoors/016-the-pinecone-creature.png",
+    "sourceHash": "b854a17f1d3fc0da6776569c25f6dc6b448ff030d8f0652cddf19b0d6482f275",
+    "file": "assets/scenes/016.webp"
+  },
+  {
+    "id": "017",
+    "title": "Exploring the spooky barn",
+    "source": "Autumn/Indoors/017-exploring-the-spooky-barn.png",
+    "sourceHash": "3a4af3c2122319f9574b6c7be2a1248bd3338d6ce948c7c4c46c5447d1c46faf",
+    "file": "assets/scenes/017.webp"
+  },
+  {
+    "id": "018",
+    "title": "The storm window",
+    "source": "Autumn/Indoors/018-the-storm-window.png",
+    "sourceHash": "818e329553d139985f9694c31f260ce032c6e6647ecc107540a0e4f80041bb66",
+    "file": "assets/scenes/018.webp"
+  },
+  {
+    "id": "019",
+    "title": "The shadow fox",
+    "source": "Autumn/Indoors/019-the-shadow-fox.png",
+    "sourceHash": "2e59dbb6223e65d8c17bc743e903ac942bc2871e41fc5dc4f06cce682f012ef2",
+    "file": "assets/scenes/019.webp"
+  },
+  {
+    "id": "020",
+    "title": "The missing mitten",
+    "source": "Autumn/Indoors/020-the-missing-mitten.png",
+    "sourceHash": "1a37830d5cd79331181475ea7667e7a8919c2ab1f3b0733134e3f93e69f4d719",
+    "file": "assets/scenes/020.webp"
+  },
+  {
+    "id": "021",
+    "title": "The corn maze clue",
+    "source": "Autumn/Outdoors/021-the-corn-maze-clue.png",
+    "sourceHash": "c14406b0e2288c4ff34576302a480679edcf10c52986d01a1143eb183948ad7f",
+    "file": "assets/scenes/021.webp"
+  },
+  {
+    "id": "022",
+    "title": "The hayride hat",
+    "source": "Autumn/Outdoors/022-the-hayride-hat.png",
+    "sourceHash": "06753bebe46ff7a2381a5db75dba7e9c108d11a82536fd7235199d512bf07004",
+    "file": "assets/scenes/022.webp"
+  },
+  {
+    "id": "023",
+    "title": "The bicycle chain",
+    "source": "Autumn/Outdoors/023-the-bicycle-chain.png",
+    "sourceHash": "f42f6a681fb64ede72412506f0749377f97f86cf8edd6245df7ea8e34c04c41f",
+    "file": "assets/scenes/023.webp"
+  },
+  {
+    "id": "024",
+    "title": "The hedgehog crossing",
+    "source": "Autumn/Outdoors/024-the-hedgehog-crossing.png",
+    "sourceHash": "0bfae0f540533e4cd15474d097edcdf11ffae8d5b6208d094f9fcfcf5ccfe74b",
+    "file": "assets/scenes/024.webp"
+  },
+  {
+    "id": "025",
+    "title": "The hidden treasure tin",
+    "source": "Autumn/Outdoors/025-the-hidden-treasure-tin.png",
+    "sourceHash": "9c23eae0681164e7b2697197ccab54da77abd73c7facde459016a9528c7efb1e",
+    "file": "assets/scenes/025.webp"
+  },
+  {
+    "id": "026",
+    "title": "The rainboot puddle",
+    "source": "Autumn/Outdoors/026-the-rainboot-puddle.png",
+    "sourceHash": "7da6eb0b9bf09d6e16b6a48fda92998e03abbf794c1e3e3a12a3c5ae885029da",
+    "file": "assets/scenes/026.webp"
+  },
+  {
+    "id": "027",
+    "title": "The tent before the rain",
+    "source": "Autumn/Outdoors/027-the-tent-before-the-rain.png",
+    "sourceHash": "cb4fbed6828e75b7c732b67ba1b3e283cec39bd30c67ac43fa09e2988e9dbce2",
+    "file": "assets/scenes/027.webp"
+  },
+  {
+    "id": "028",
+    "title": "The sunflower seed team",
+    "source": "Autumn/Outdoors/028-the-sunflower-seed-team.png",
+    "sourceHash": "0539ec9e8ccab8422cefab0fe75fdb7b122a731ea8bc50a1a746790f30df820e",
+    "file": "assets/scenes/028.webp"
+  },
+  {
+    "id": "029",
+    "title": "The floating pumpkin",
+    "source": "Autumn/Outdoors/029-the-floating-pumpkin.png",
+    "sourceHash": "fa5ad019b633a9f7a33c5d3aba5d2220f6ac7df94bb07956d29a33951365a3b1",
+    "file": "assets/scenes/029.webp"
+  },
+  {
+    "id": "030",
+    "title": "The conker challenge",
+    "source": "Autumn/Outdoors/030-the-conker-challenge.png",
+    "sourceHash": "b5285618dc9d5e1846ea8e93fc43f50680b72b7b3712ff487b79fa0fc36400b1",
+    "file": "assets/scenes/030.webp"
+  },
+  {
+    "id": "031",
+    "title": "The leaf crown",
+    "source": "Autumn/Outdoors/031-the-leaf-crown.png",
+    "sourceHash": "386c5414284d4c90f3ba2b9e06852c24b85c5c17fa95106c61264e57e1b68edd",
+    "file": "assets/scenes/031.webp"
+  },
+  {
+    "id": "032",
+    "title": "The pumpkin bowling save",
+    "source": "Autumn/Outdoors/032-the-pumpkin-bowling-save.png",
+    "sourceHash": "0a9845ea76ba1dcae1d67d1d4ece9d862985483c76feaf94bd4fdcd84d74abab",
+    "file": "assets/scenes/032.webp"
+  },
+  {
+    "id": "033",
+    "title": "The squirrel’s branch bridge",
+    "source": "Autumn/Outdoors/033-the-bridge-for-the-squirrel.png",
+    "sourceHash": "3fb941091f0e6c0fb8dc32eca69c2cee0a3575207d55e6868d69422d739cbc48",
+    "file": "assets/scenes/033.webp"
+  },
+  {
+    "id": "034",
+    "title": "The insect hotel roof",
+    "source": "Autumn/Outdoors/034-the-insect-hotel-roof.png",
+    "sourceHash": "e4ebd432df9e331af67c38cdd97417c022ea415cc17aa75804a0cdd48f93befc",
+    "file": "assets/scenes/034.webp"
+  },
+  {
+    "id": "035",
+    "title": "Autumn soccer action",
+    "source": "Autumn/Outdoors/035-autumn-soccer-action.png",
+    "sourceHash": "cfb57c500eb37e6065931edd02d09e0d616bd205d9024d17cd3155e2de9f9952",
+    "file": "assets/scenes/035.webp"
+  },
+  {
+    "id": "036",
+    "title": "The autumn photo surprise",
+    "source": "Autumn/Outdoors/036-the-autumn-photo-surprise.png",
+    "sourceHash": "6062e3266ce27647f36f5d0499a1d200a9ec46b4e18be567e4c6426ee105aee2",
+    "file": "assets/scenes/036.webp"
+  },
+  {
+    "id": "037",
+    "title": "The rainbarrel boat",
+    "source": "Autumn/Outdoors/037-the-rainbarrel-boat.png",
+    "sourceHash": "8c5aa3b158018f55ec8d7ae7dd68b05cddc1f08d7913ce54275a252c4828c09b",
+    "file": "assets/scenes/037.webp"
+  },
+  {
+    "id": "038",
+    "title": "The owl in the tree",
+    "source": "Autumn/Outdoors/038-the-owl-in-the-tree.png",
+    "sourceHash": "74fa19b2ca2344e3db7f07ad8da541ffe536c9fa1fd1bb958da7ec737e234909",
+    "file": "assets/scenes/038.webp"
+  },
+  {
+    "id": "039",
+    "title": "The leaf labyrinth",
+    "source": "Autumn/Outdoors/039-the-leaf-labyrinth.png",
+    "sourceHash": "af4b826dd273b6ef6e8accaaaf2534ac33ceeb622cb1f64928ce736beed4f72e",
+    "file": "assets/scenes/039.webp"
+  },
+  {
+    "id": "040",
+    "title": "The scarecrow button",
+    "source": "Autumn/Outdoors/040-the-scarecrow-button.png",
+    "sourceHash": "5719b6fa2731c21315bcc7885d5f1c2a35f37aec948701b576f3aea6c124e35d",
+    "file": "assets/scenes/040.webp"
+  },
+  {
+    "id": "041",
+    "title": "The garden wheelbarrow race",
+    "source": "Autumn/Outdoors/041-the-garden-wheelbarrow-race.png",
+    "sourceHash": "3984128abf0c5d929194e4b5d810ad60de2648c69b350980bd4d5c5d040bf560",
+    "file": "assets/scenes/041.webp"
+  },
+  {
+    "id": "042",
+    "title": "The robin at the feeder",
+    "source": "Autumn/Outdoors/042-the-robin-at-the-feeder.png",
+    "sourceHash": "6ab3d3110ec3ce2a39c2e2d4a722f8ab4f0b5e44e2a54ddb25fe08572e1f00ad",
+    "file": "assets/scenes/042.webp"
+  },
+  {
+    "id": "043",
+    "title": "The lighthouse scavenger hunt",
+    "source": "Autumn/Outdoors/043-the-lighthouse-scavenger-hunt.png",
+    "sourceHash": "621b5dbd81a48bf8852e877710e74ce1b53b4ecf88dbec159f120381aafa03ef",
+    "file": "assets/scenes/043.webp"
+  },
+  {
+    "id": "044",
+    "title": "Raking a path to the gate",
+    "source": "Autumn/Outdoors/044-raking-a-path-to-the-gate.png",
+    "sourceHash": "ff96aaa4c28bb0b20cc81dcd54460dc060f758c2a6dedaa746454befcd462732",
+    "file": "assets/scenes/044.webp"
+  },
+  {
+    "id": "045",
+    "title": "The ducks and the leaf",
+    "source": "Autumn/Outdoors/045-the-ducks-and-the-leaf.png",
+    "sourceHash": "ff0cd368d86c5eb0d9894fe71166a67a07f317b7c280cd370f59a5e0adce013b",
+    "file": "assets/scenes/045.webp"
+  },
+  {
+    "id": "046",
+    "title": "The autumn sailing lesson",
+    "source": "Autumn/Outdoors/046-the-autumn-sailing-lesson.png",
+    "sourceHash": "e99b6bebdad560fced7a92d16954bf19770b6bf75b86c0d70e7a1845fba7d30c",
+    "file": "assets/scenes/046.webp"
+  },
+  {
+    "id": "047",
+    "title": "Fixing the loose fence board",
+    "source": "Autumn/Outdoors/047-fixing-the-loose-fence-board.png",
+    "sourceHash": "05ca173503eb3d539bc0ac6e11b6aff8bd7ccdd0a1664c75d8b289268802790d",
+    "file": "assets/scenes/047.webp"
+  },
+  {
+    "id": "048",
+    "title": "The rake full of leaves",
+    "source": "Autumn/Outdoors/048-the-rake-full-of-leaves.png",
+    "sourceHash": "69c82d5dc8cf09bd26b87f22ed9c8992d632ce96d3f119142a87c50498bcad47",
+    "file": "assets/scenes/048.webp"
+  },
+  {
+    "id": "049",
+    "title": "The canoe and the red leaf",
+    "source": "Autumn/Outdoors/049-the-canoe-and-the-red-leaf.png",
+    "sourceHash": "2de6e73af7ef52594acff27c2b92dd82999d56f3b891ddc92900ff16061c0796",
+    "file": "assets/scenes/049.webp"
+  },
+  {
+    "id": "050",
+    "title": "The geese heading south",
+    "source": "Autumn/Outdoors/050-the-geese-heading-south.png",
+    "sourceHash": "632cc357254823d3e3593aab31d8a0a14faa942597cf1a323c84cdb3483f50d3",
+    "file": "assets/scenes/050.webp"
+  },
+  {
+    "id": "051",
+    "title": "Hide-and-seek in the leaf piles",
+    "source": "Autumn/Outdoors/051-hide-and-seek-in-the-leaf-piles.png",
+    "sourceHash": "9fdbb76310c0f9491303d56e305e03b5c69fd901d35690c3bdcaf93e3c1aad2b",
+    "file": "assets/scenes/051.webp"
+  },
+  {
+    "id": "052",
+    "title": "Buying new gloves at the market",
+    "source": "Autumn/Outdoors/052-buying-new-gloves-at-the-market.png",
+    "sourceHash": "35e6b859a1e0d2963b958c219abed38507baa4e6c0b145486f52a8ffe8037b50",
+    "file": "assets/scenes/052.webp"
+  },
+  {
+    "id": "053",
+    "title": "Hot cocoa at the autumn market",
+    "source": "Autumn/Outdoors/053-hot-cocoa-at-the-autumn-market.png",
+    "sourceHash": "783d8b0c1c76d83c433f2677095000319e9c43e1d6680121fed12b68424d14a3",
+    "file": "assets/scenes/053.webp"
+  },
+  {
+    "id": "054",
+    "title": "Dog walking through the autumn leaves",
+    "source": "Autumn/Outdoors/054-dog-walking-through-the-autumn-leaves.png",
+    "sourceHash": "634410922be247a02fd03ffffe8ca75c6a0402ae36cc27a4c56b188e97ea9ca0",
+    "file": "assets/scenes/054.webp"
+  },
+  {
+    "id": "055",
+    "title": "The tree detectives",
+    "source": "Autumn/Outdoors/055-the-tree-detectives.png",
+    "sourceHash": "c05b724b1bed310e0ce955757bdb807af73a17ab9251bdb9f88a5d66deefdcc9",
+    "file": "assets/scenes/055.webp"
+  },
+  {
+    "id": "056",
+    "title": "Fixing the garden gate",
+    "source": "Autumn/Outdoors/056-fixing-the-garden-gate.png",
+    "sourceHash": "44657636afc1bf6be8ffb9eae7f6f3388741bce12a006132f2bec7e98f777aa0",
+    "file": "assets/scenes/056.webp"
+  },
+  {
+    "id": "057",
+    "title": "Building the fairy house",
+    "source": "Autumn/Outdoors/057-building-the-fairy-house.png",
+    "sourceHash": "cc0be1f094203a191c69dde2d7349851c2f6a8c76e37bab682a2f11d1be3626c",
+    "file": "assets/scenes/057.webp"
+  },
+  {
+    "id": "058",
+    "title": "The farm wagon ride",
+    "source": "Autumn/Outdoors/058-the-farm-wagon-ride.png",
+    "sourceHash": "cc33533a48479d8f51cdc45fa170359a94dc1134dd1ef62554f2ca3e52055b8a",
+    "file": "assets/scenes/058.webp"
+  },
+  {
+    "id": "059",
+    "title": "The fall obstacle course",
+    "source": "Autumn/Outdoors/059-the-fall-obstacle-course.png",
+    "sourceHash": "21f4eedaecce63ce17b1e81c36a549688fb58eee4c1d43fb71c149b14d514a03",
+    "file": "assets/scenes/059.webp"
+  },
+  {
+    "id": "060",
+    "title": "The leaf-pile leap",
+    "source": "Autumn/Outdoors/060-the-leaf-pile-leap.png",
+    "sourceHash": "2d1cca5972214586263d20c7fbe65473176e4e2ad993f8eb63c87d36620e4320",
+    "file": "assets/scenes/060.webp"
+  },
+  {
+    "id": "061",
+    "title": "Trying on new gloves",
+    "source": "Autumn/Indoors/061-trying-on-new-gloves.png",
+    "sourceHash": "1db9f4e10447f0c7c237a880344f3ec767022916e03cb689779ef65ba602fa71",
+    "file": "assets/scenes/061.webp"
+  },
+  {
+    "id": "062",
+    "title": "The window birdwatchers",
+    "source": "Autumn/Indoors/062-the-window-birdwatchers.png",
+    "sourceHash": "d4d8f6840406b80f4aa0ebb96a6bed6b6d12248ba42fafd227ced7bcdae4d2ca",
+    "file": "assets/scenes/062.webp"
+  },
+  {
+    "id": "063",
+    "title": "Building the autumn sailboat",
+    "source": "Autumn/Indoors/063-building-the-autumn-sailboat.png",
+    "sourceHash": "e8b2d1e8262775f828ebe2812b12cd1f0c14963cc630ba6aea9f354181eb6eca",
+    "file": "assets/scenes/063.webp"
+  },
+  {
+    "id": "064",
+    "title": "The apple browning experiment",
+    "source": "Autumn/Indoors/064-the-apple-browning-experiment.png",
+    "sourceHash": "42e56eabb5c9aac2b53f8d915610ad4c627c6a59a878cbe9ba663462cad84686",
+    "file": "assets/scenes/064.webp"
+  },
+  {
+    "id": "065",
+    "title": "Building a miniature autumn forest",
+    "source": "Autumn/Indoors/065-building-a-miniature-autumn-forest.png",
+    "sourceHash": "754c9ca93583b2a69c11d5f7e9cf403404f6541348e2a2a8f7ceb2725a25102c",
+    "file": "assets/scenes/065.webp"
+  },
+  {
+    "id": "066",
+    "title": "Autumn nature bingo",
+    "source": "Autumn/Indoors/066-autumn-nature-bingo.png",
+    "sourceHash": "f43211eb05c154602d5a09a311891d8aaac876a7066c10c0d359d3f85513067a",
+    "file": "assets/scenes/066.webp"
+  },
+  {
+    "id": "067",
+    "title": "The leaf rubbing reveal",
+    "source": "Autumn/Indoors/067-the-leaf-rubbing-reveal.png",
+    "sourceHash": "a16a2a034c2a1a8efb72c83bbb561be503e9ff38769a61ef0a8ddf7c5e172274",
+    "file": "assets/scenes/067.webp"
+  },
+  {
+    "id": "068",
+    "title": "The apple taste test",
+    "source": "Autumn/Indoors/068-the-apple-taste-test.png",
+    "sourceHash": "6da613d76871545396db04a6dc188cc127dd8f4f7e6f81e49ced9e8f201212b5",
+    "file": "assets/scenes/068.webp"
+  },
+  {
+    "id": "069",
+    "title": "Painting the pinecone",
+    "source": "Autumn/Indoors/069-painting-the-pinecone.png",
+    "sourceHash": "95e91df850cc58dcd6ef542959699e96ab140f9999288715232e76d37d786ac5",
+    "file": "assets/scenes/069.webp"
+  },
+  {
+    "id": "070",
+    "title": "Autumn rock painting",
+    "source": "Autumn/Indoors/070-autumn-rock-painting.png",
+    "sourceHash": "aaab07e85734bd5c18f81585b5037ee320775a164c209928943405aee8b8917b",
+    "file": "assets/scenes/070.webp"
+  },
+  {
+    "id": "071",
+    "title": "Building the animal habitat",
+    "source": "Autumn/Indoors/071-building-the-animal-habitat.png",
+    "sourceHash": "4b73508ba1c6d569a2a5dcc558dd1d67eda3732f9a510c2dc0fd1e00841d0eea",
+    "file": "assets/scenes/071.webp"
+  },
+  {
+    "id": "072",
+    "title": "The leaf sorting challenge",
+    "source": "Autumn/Indoors/072-the-leaf-sorting-challenge.png",
+    "sourceHash": "ba906824238f178a86d8f155af7fd0dffef461d1f68e6235c74676c1ac7bff6e",
+    "file": "assets/scenes/072.webp"
+  },
+  {
+    "id": "073",
+    "title": "Decorating the pumpkin",
+    "source": "Autumn/Indoors/073-decorating-the-pumpkin-v2.png",
+    "sourceHash": "2a9c2227f95f00539326db23eeb9dc8579f81a6846f1dd50c02ccfa041777017",
+    "file": "assets/scenes/073.webp"
+  },
+  {
+    "id": "074",
+    "title": "Tracing the autumn shadows",
+    "source": "Autumn/Indoors/074-tracing-the-autumn-shadows.png",
+    "sourceHash": "46a62ef21a8e3ad5c835058fa5ade6a443d10cbf5ac71513fd01a15cd389b063",
+    "file": "assets/scenes/074.webp"
+  },
+  {
+    "id": "075",
+    "title": "Counting the pumpkin seeds",
+    "source": "Autumn/Indoors/075-counting-the-pumpkin-seeds.png",
+    "sourceHash": "bcd53b8bbdaad2b804fa9023fc9f66b16f21a2b769923843c2a9f250f6e06f9d",
+    "file": "assets/scenes/075.webp"
+  },
+  {
+    "id": "076",
+    "title": "The lighthouse light experiment",
+    "source": "Autumn/Indoors/076-the-lighthouse-light-experiment.png",
+    "sourceHash": "facce70603e854dae05cb8668a577c3dde85db933dd2155ac1fb96c6f247ef13",
+    "file": "assets/scenes/076.webp"
+  },
+  {
+    "id": "077",
+    "title": "The rainy-day marble run",
+    "source": "Autumn/Indoors/077-the-rainy-day-marble-run.png",
+    "sourceHash": "ccc47aa0328e030309798c91a91927ce43683ebd87fedefc9c2b9aeeb08e0499",
+    "file": "assets/scenes/077.webp"
+  },
+  {
+    "id": "078",
+    "title": "The mushroom model",
+    "source": "Autumn/Indoors/078-the-mushroom-model.png",
+    "sourceHash": "bef6edce6219ab066bba067255115709f80c65eda5671d80c40e9680ce81b86c",
+    "file": "assets/scenes/078.webp"
+  },
+  {
+    "id": "079",
+    "title": "The leaf colour science",
+    "source": "Autumn/Indoors/079-the-leaf-colour-science.png",
+    "sourceHash": "505f0f75e3804ffeaf2c23099868a879f0bea7de5c4787ef4ae11c7cf2fa8cc9",
+    "file": "assets/scenes/079.webp"
+  },
+  {
+    "id": "080",
+    "title": "The leaf rainbow challenge",
+    "source": "Autumn/Indoors/080-the-leaf-rainbow-challenge.png",
+    "sourceHash": "9ac7c37bfa635bff5ff77384971c1026a88e69548ac59f165c69b80a5d971318",
+    "file": "assets/scenes/080.webp"
+  },
+  {
+    "id": "081",
+    "title": "The Halloween mask adjustment",
+    "source": "Autumn/Indoors/081-the-halloween-mask-adjustment.png",
+    "sourceHash": "8b2325b3c473c9f271350ddd1fd8477aee5e1c183dcd53ee47c4bf78af62d946",
+    "file": "assets/scenes/081.webp"
+  },
+  {
+    "id": "082",
+    "title": "The friendly ghost craft",
+    "source": "Autumn/Indoors/082-the-friendly-ghost-craft.png",
+    "sourceHash": "a2b0d779f6687fc9c79b10d2aa6a71e0f7ab532646ee85fd88098fb5ca9a7436",
+    "file": "assets/scenes/082.webp"
+  },
+  {
+    "id": "083",
+    "title": "Decorating the autumn classroom",
+    "source": "Autumn/Indoors/083-decorating-the-autumn-classroom.png",
+    "sourceHash": "572ee5c533ee5a64c471c872a14f8f8bf0e50e41b581516f709921263ac9be53",
+    "file": "assets/scenes/083.webp"
+  },
+  {
+    "id": "084",
+    "title": "The pumpkin button craft",
+    "source": "Autumn/Indoors/084-the-pumpkin-button-craft.png",
+    "sourceHash": "f67b8ce68115425e4819c3e249a85d8f83c1657c540e00edd6446b375df87b04",
+    "file": "assets/scenes/084.webp"
+  },
+  {
+    "id": "085",
+    "title": "Hide-and-seek in the autumn den",
+    "source": "Autumn/Indoors/085-hide-and-seek-in-the-autumn-den.png",
+    "sourceHash": "43486d7c245f003d2fb90980b5e6b0eef06325840178f864016d7a54a00934f3",
+    "file": "assets/scenes/085.webp"
+  },
+  {
+    "id": "086",
+    "title": "Measuring the giant leaf",
+    "source": "Autumn/Indoors/086-measuring-the-giant-leaf.png",
+    "sourceHash": "8b9a0059698de7bbcc7d65b26db86d700f6e16400da832338666a5f8d3a0f7a7",
+    "file": "assets/scenes/086.webp"
+  },
+  {
+    "id": "087",
+    "title": "Rescuing the duck",
+    "source": "Autumn/Indoors/087-rescuing-the-duck.png",
+    "sourceHash": "da7017e091e5a2923e1deacd44927852ef57ad6bf3bc6dfc6a2e5caf92029af4",
+    "file": "assets/scenes/087.webp"
+  },
+  {
+    "id": "088",
+    "title": "The harvest market play",
+    "source": "Autumn/Indoors/088-the-harvest-market-play.png",
+    "sourceHash": "bfaf5e840503518424d4e558e488d240c45e6d84f5baf6b1db66c829d1e9099a",
+    "file": "assets/scenes/088.webp"
+  },
+  {
+    "id": "089",
+    "title": "The pumpkin catapult challenge",
+    "source": "Autumn/Indoors/089-the-pumpkin-catapult-challenge.png",
+    "sourceHash": "4a0787dc6c6557e8fa160ec3d442208ed9e166873f865941e104e95b35a2a9ac",
+    "file": "assets/scenes/089.webp"
+  },
+  {
+    "id": "090",
+    "title": "Making a nature mandala",
+    "source": "Autumn/Indoors/090-making-a-nature-mandala.png",
+    "sourceHash": "3188e4745d081fa5a248dd5df62a729fda683b1b7c02d8588004b265ff7a2ca3",
+    "file": "assets/scenes/090.webp"
+  },
+  {
+    "id": "091",
+    "title": "The acorn counting game",
+    "source": "Autumn/Indoors/091-the-acorn-counting-game.png",
+    "sourceHash": "226cebd7103968d4d0883aa2c1c4c3db1e1b3cbfc6c7fbd4742afdb8df924fbe",
+    "file": "assets/scenes/091.webp"
+  },
+  {
+    "id": "092",
+    "title": "The fall nature collage",
+    "source": "Autumn/Indoors/092-the-fall-nature-collage.png",
+    "sourceHash": "dba806f84f43a1932b28b0a168a510831ca8b8e58992783838566dcb4d4c2c89",
+    "file": "assets/scenes/092.webp"
+  },
+  {
+    "id": "093",
+    "title": "The cinnamon dough shapes",
+    "source": "Autumn/Indoors/093-the-cinnamon-dough-shapes.png",
+    "sourceHash": "64760a1621c705a68389f57ffbb44bdb416515ca169a172851a74d5ef193693e",
+    "file": "assets/scenes/093.webp"
+  },
+  {
+    "id": "094",
+    "title": "The school play forest",
+    "source": "Autumn/Indoors/094-the-school-play-forest.png",
+    "sourceHash": "d84b8dbe307a206becf0e2c829022bb4b39253476f7d27937a911cd6d0ef0e07",
+    "file": "assets/scenes/094.webp"
+  },
+  {
+    "id": "095",
+    "title": "The rain-on-the-roof model",
+    "source": "Autumn/Indoors/095-the-rain-on-the-roof-model.png",
+    "sourceHash": "8e9b774cf21028d3a0eb7c7793eeb1695ddf3ebb1d7aa5597fecc458dc678115",
+    "file": "assets/scenes/095.webp"
+  },
+  {
+    "id": "096",
+    "title": "The pumpkin story theatre",
+    "source": "Autumn/Indoors/096-the-pumpkin-story-theatre.png",
+    "sourceHash": "09024c14d9afd4f7f1dcadcfa5ff28b3c90af529943f83eb5d0baa8cf76ec553",
+    "file": "assets/scenes/096.webp"
+  },
+  {
+    "id": "097",
+    "title": "The apple scent discovery",
+    "source": "Autumn/Indoors/097-the-apple-scent-discovery.png",
+    "sourceHash": "f5e6c1fb63cc07d8f8a962ccb9874b7f18d75ce22a551c45ef811047a9d08adf",
+    "file": "assets/scenes/097.webp"
+  },
+  {
+    "id": "098",
+    "title": "The autumn nature museum",
+    "source": "Autumn/Indoors/098-the-autumn-nature-museum.png",
+    "sourceHash": "cbec6698885c7f68913c1cc9a1d329bbcf0e0b803235af3d81eeacb69fdb67ba",
+    "file": "assets/scenes/098.webp"
+  },
+  {
+    "id": "099",
+    "title": "The homemade rain stick",
+    "source": "Autumn/Indoors/099-the-homemade-rain-stick.png",
+    "sourceHash": "40df75eea94d66aa6968dff40bb2ecad363e5b02ad9afbe7963de3411c390416",
+    "file": "assets/scenes/099.webp"
+  },
+  {
+    "id": "100",
+    "title": "Writing an autumn adventure",
+    "source": "Autumn/Indoors/100-writing-an-autumn-adventure.png",
+    "sourceHash": "cd9ebe9de23ad8926fb2bb2242dffead7e001296872bfda6d63b4425805d315c",
+    "file": "assets/scenes/100.webp"
+  }
+]

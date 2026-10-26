@@ -1,0 +1,826 @@
+{
+  "interactions": [
+    {
+      "activity": "letter",
+      "mouseReorder": true,
+      "touchReorder": true,
+      "clickDoesNotMove": true,
+      "invalidDropPreserved": true,
+      "incorrectThenCorrect": true,
+      "reloadAndEarnedCreditPreserved": true
+    },
+    {
+      "activity": "paragraph",
+      "bankToSlot": true,
+      "touchMoveAndReturn": true,
+      "reorder": true,
+      "replaceReturnsDisplacedSentence": true,
+      "clickDoesNotMove": true,
+      "incorrectThenCorrect": true,
+      "reloadPreserved": true
+    },
+    {
+      "otherActivitiesRender": true
+    }
+  ],
+  "layouts": [
+    {
+      "activity": "letter",
+      "width": 1366,
+      "height": 768,
+      "level": "A",
+      "state": "start",
+      "item": 20,
+      "issues": [],
+      "font": "30px",
+      "bodyScroll": [
+        1366,
+        768
+      ]
+    },
+    {
+      "activity": "letter",
+      "width": 1366,
+      "height": 768,
+      "level": "A",
+      "state": "complete",
+      "item": 20,
+      "issues": [],
+      "font": "30px",
+      "bodyScroll": [
+        1366,
+        768
+      ]
+    },
+    {
+      "activity": "letter",
+      "width": 1366,
+      "height": 768,
+      "level": "AA",
+      "state": "start",
+      "item": 43,
+      "issues": [],
+      "font": "26.5px",
+      "bodyScroll": [
+        1366,
+        768
+      ]
+    },
+    {
+      "activity": "letter",
+      "width": 1366,
+      "height": 768,
+      "level": "AA",
+      "state": "complete",
+      "item": 43,
+      "issues": [],
+      "font": "24.5px",
+      "bodyScroll": [
+        1366,
+        768
+      ]
+    },
+    {
+      "activity": "letter",
+      "width": 1280,
+      "height": 720,
+      "level": "A",
+      "state": "start",
+      "item": 20,
+      "issues": [],
+      "font": "30px",
+      "bodyScroll": [
+        1280,
+        720
+      ]
+    },
+    {
+      "activity": "letter",
+      "width": 1280,
+      "height": 720,
+      "level": "A",
+      "state": "complete",
+      "item": 20,
+      "issues": [],
+      "font": "30px",
+      "bodyScroll": [
+        1280,
+        720
+      ]
+    },
+    {
+      "activity": "letter",
+      "width": 1280,
+      "height": 720,
+      "level": "AA",
+      "state": "start",
+      "item": 43,
+      "issues": [],
+      "font": "25.5px",
+      "bodyScroll": [
+        1280,
+        720
+      ]
+    },
+    {
+      "activity": "letter",
+      "width": 1280,
+      "height": 720,
+      "level": "AA",
+      "state": "complete",
+      "item": 43,
+      "issues": [],
+      "font": "24px",
+      "bodyScroll": [
+        1280,
+        720
+      ]
+    },
+    {
+      "activity": "letter",
+      "width": 1024,
+      "height": 768,
+      "level": "A",
+      "state": "start",
+      "item": 20,
+      "issues": [],
+      "font": "30px",
+      "bodyScroll": [
+        1024,
+        768
+      ]
+    },
+    {
+      "activity": "letter",
+      "width": 1024,
+      "height": 768,
+      "level": "A",
+      "state": "complete",
+      "item": 20,
+      "issues": [],
+      "font": "30px",
+      "bodyScroll": [
+        1024,
+        768
+      ]
+    },
+    {
+      "activity": "letter",
+      "width": 1024,
+      "height": 768,
+      "level": "AA",
+      "state": "start",
+      "item": 43,
+      "issues": [],
+      "font": "27px",
+      "bodyScroll": [
+        1024,
+        768
+      ]
+    },
+    {
+      "activity": "letter",
+      "width": 1024,
+      "height": 768,
+      "level": "AA",
+      "state": "complete",
+      "item": 43,
+      "issues": [],
+      "font": "27px",
+      "bodyScroll": [
+        1024,
+        768
+      ]
+    },
+    {
+      "activity": "letter",
+      "width": 768,
+      "height": 1024,
+      "level": "A",
+      "state": "start",
+      "item": 20,
+      "issues": [],
+      "font": "30px",
+      "bodyScroll": [
+        768,
+        1024
+      ]
+    },
+    {
+      "activity": "letter",
+      "width": 768,
+      "height": 1024,
+      "level": "A",
+      "state": "complete",
+      "item": 20,
+      "issues": [],
+      "font": "30px",
+      "bodyScroll": [
+        768,
+        1024
+      ]
+    },
+    {
+      "activity": "letter",
+      "width": 768,
+      "height": 1024,
+      "level": "AA",
+      "state": "start",
+      "item": 43,
+      "issues": [],
+      "font": "30px",
+      "bodyScroll": [
+        768,
+        1024
+      ]
+    },
+    {
+      "activity": "letter",
+      "width": 768,
+      "height": 1024,
+      "level": "AA",
+      "state": "complete",
+      "item": 43,
+      "issues": [],
+      "font": "30px",
+      "bodyScroll": [
+        768,
+        1024
+      ]
+    },
+    {
+      "activity": "letter",
+      "width": 820,
+      "height": 1180,
+      "level": "A",
+      "state": "start",
+      "item": 20,
+      "issues": [],
+      "font": "30px",
+      "bodyScroll": [
+        820,
+        1180
+      ]
+    },
+    {
+      "activity": "letter",
+      "width": 820,
+      "height": 1180,
+      "level": "A",
+      "state": "complete",
+      "item": 20,
+      "issues": [],
+      "font": "30px",
+      "bodyScroll": [
+        820,
+        1180
+      ]
+    },
+    {
+      "activity": "letter",
+      "width": 820,
+      "height": 1180,
+      "level": "AA",
+      "state": "start",
+      "item": 43,
+      "issues": [],
+      "font": "30px",
+      "bodyScroll": [
+        820,
+        1180
+      ]
+    },
+    {
+      "activity": "letter",
+      "width": 820,
+      "height": 1180,
+      "level": "AA",
+      "state": "complete",
+      "item": 43,
+      "issues": [],
+      "font": "30px",
+      "bodyScroll": [
+        820,
+        1180
+      ]
+    },
+    {
+      "activity": "letter",
+      "width": 390,
+      "height": 844,
+      "level": "A",
+      "state": "start",
+      "item": 20,
+      "issues": [],
+      "font": "24px",
+      "bodyScroll": [
+        390,
+        844
+      ]
+    },
+    {
+      "activity": "letter",
+      "width": 390,
+      "height": 844,
+      "level": "A",
+      "state": "complete",
+      "item": 20,
+      "issues": [],
+      "font": "24px",
+      "bodyScroll": [
+        390,
+        844
+      ]
+    },
+    {
+      "activity": "letter",
+      "width": 390,
+      "height": 844,
+      "level": "AA",
+      "state": "start",
+      "item": 43,
+      "issues": [],
+      "font": "20px",
+      "bodyScroll": [
+        390,
+        844
+      ]
+    },
+    {
+      "activity": "letter",
+      "width": 390,
+      "height": 844,
+      "level": "AA",
+      "state": "complete",
+      "item": 43,
+      "issues": [],
+      "font": "20px",
+      "bodyScroll": [
+        390,
+        844
+      ]
+    },
+    {
+      "activity": "paragraph",
+      "width": 1366,
+      "height": 768,
+      "level": "A",
+      "state": "start",
+      "item": 25,
+      "issues": [],
+      "font": "24px",
+      "bodyScroll": [
+        1366,
+        768
+      ]
+    },
+    {
+      "activity": "paragraph",
+      "width": 1366,
+      "height": 768,
+      "level": "A",
+      "state": "complete",
+      "item": 25,
+      "issues": [],
+      "font": "24px",
+      "bodyScroll": [
+        1366,
+        768
+      ]
+    },
+    {
+      "activity": "paragraph",
+      "width": 1366,
+      "height": 768,
+      "level": "AA",
+      "state": "start",
+      "item": 28,
+      "issues": [],
+      "font": "23.5px",
+      "bodyScroll": [
+        1366,
+        768
+      ]
+    },
+    {
+      "activity": "paragraph",
+      "width": 1366,
+      "height": 768,
+      "level": "AA",
+      "state": "complete",
+      "item": 28,
+      "issues": [],
+      "font": "24px",
+      "bodyScroll": [
+        1366,
+        768
+      ]
+    },
+    {
+      "activity": "paragraph",
+      "width": 1280,
+      "height": 720,
+      "level": "A",
+      "state": "start",
+      "item": 25,
+      "issues": [],
+      "font": "24px",
+      "bodyScroll": [
+        1280,
+        720
+      ]
+    },
+    {
+      "activity": "paragraph",
+      "width": 1280,
+      "height": 720,
+      "level": "A",
+      "state": "complete",
+      "item": 25,
+      "issues": [],
+      "font": "24px",
+      "bodyScroll": [
+        1280,
+        720
+      ]
+    },
+    {
+      "activity": "paragraph",
+      "width": 1280,
+      "height": 720,
+      "level": "AA",
+      "state": "start",
+      "item": 28,
+      "issues": [],
+      "font": "20px",
+      "bodyScroll": [
+        1280,
+        720
+      ]
+    },
+    {
+      "activity": "paragraph",
+      "width": 1280,
+      "height": 720,
+      "level": "AA",
+      "state": "complete",
+      "item": 28,
+      "issues": [],
+      "font": "24px",
+      "bodyScroll": [
+        1280,
+        720
+      ]
+    },
+    {
+      "activity": "paragraph",
+      "width": 1024,
+      "height": 768,
+      "level": "A",
+      "state": "start",
+      "item": 25,
+      "issues": [],
+      "font": "24px",
+      "bodyScroll": [
+        1024,
+        768
+      ]
+    },
+    {
+      "activity": "paragraph",
+      "width": 1024,
+      "height": 768,
+      "level": "A",
+      "state": "complete",
+      "item": 25,
+      "issues": [],
+      "font": "24px",
+      "bodyScroll": [
+        1024,
+        768
+      ]
+    },
+    {
+      "activity": "paragraph",
+      "width": 1024,
+      "height": 768,
+      "level": "AA",
+      "state": "start",
+      "item": 28,
+      "issues": [],
+      "font": "24px",
+      "bodyScroll": [
+        1024,
+        768
+      ]
+    },
+    {
+      "activity": "paragraph",
+      "width": 1024,
+      "height": 768,
+      "level": "AA",
+      "state": "complete",
+      "item": 28,
+      "issues": [],
+      "font": "24px",
+      "bodyScroll": [
+        1024,
+        768
+      ]
+    },
+    {
+      "activity": "paragraph",
+      "width": 768,
+      "height": 1024,
+      "level": "A",
+      "state": "start",
+      "item": 25,
+      "issues": [],
+      "font": "24px",
+      "bodyScroll": [
+        768,
+        1024
+      ]
+    },
+    {
+      "activity": "paragraph",
+      "width": 768,
+      "height": 1024,
+      "level": "A",
+      "state": "complete",
+      "item": 25,
+      "issues": [],
+      "font": "24px",
+      "bodyScroll": [
+        768,
+        1024
+      ]
+    },
+    {
+      "activity": "paragraph",
+      "width": 768,
+      "height": 1024,
+      "level": "AA",
+      "state": "start",
+      "item": 28,
+      "issues": [],
+      "font": "24px",
+      "bodyScroll": [
+        768,
+        1024
+      ]
+    },
+    {
+      "activity": "paragraph",
+      "width": 768,
+      "height": 1024,
+      "level": "AA",
+      "state": "complete",
+      "item": 28,
+      "issues": [],
+      "font": "24px",
+      "bodyScroll": [
+        768,
+        1024
+      ]
+    },
+    {
+      "activity": "paragraph",
+      "width": 820,
+      "height": 1180,
+      "level": "A",
+      "state": "start",
+      "item": 25,
+      "issues": [],
+      "font": "24px",
+      "bodyScroll": [
+        820,
+        1180
+      ]
+    },
+    {
+      "activity": "paragraph",
+      "width": 820,
+      "height": 1180,
+      "level": "A",
+      "state": "complete",
+      "item": 25,
+      "issues": [],
+      "font": "24px",
+      "bodyScroll": [
+        820,
+        1180
+      ]
+    },
+    {
+      "activity": "paragraph",
+      "width": 820,
+      "height": 1180,
+      "level": "AA",
+      "state": "start",
+      "item": 28,
+      "issues": [],
+      "font": "24px",
+      "bodyScroll": [
+        820,
+        1180
+      ]
+    },
+    {
+      "activity": "paragraph",
+      "width": 820,
+      "height": 1180,
+      "level": "AA",
+      "state": "complete",
+      "item": 28,
+      "issues": [],
+      "font": "24px",
+      "bodyScroll": [
+        820,
+        1180
+      ]
+    },
+    {
+      "activity": "paragraph",
+      "width": 390,
+      "height": 844,
+      "level": "A",
+      "state": "start",
+      "item": 25,
+      "issues": [],
+      "font": "16.5px",
+      "bodyScroll": [
+        390,
+        844
+      ]
+    },
+    {
+      "activity": "paragraph",
+      "width": 390,
+      "height": 844,
+      "level": "A",
+      "state": "complete",
+      "item": 25,
+      "issues": [],
+      "font": "18px",
+      "bodyScroll": [
+        390,
+        844
+      ]
+    },
+    {
+      "activity": "paragraph",
+      "width": 390,
+      "height": 844,
+      "level": "AA",
+      "state": "start",
+      "item": 28,
+      "issues": [],
+      "font": "14px",
+      "bodyScroll": [
+        390,
+        844
+      ]
+    },
+    {
+      "activity": "paragraph",
+      "width": 390,
+      "height": 844,
+      "level": "AA",
+      "state": "complete",
+      "item": 28,
+      "issues": [],
+      "font": "15px",
+      "bodyScroll": [
+        390,
+        844
+      ]
+    },
+    {
+      "activity": "letter",
+      "width": 844,
+      "height": 390,
+      "level": "A",
+      "state": "start",
+      "item": 20,
+      "issues": [],
+      "font": "20px",
+      "bodyScroll": [
+        844,
+        390
+      ]
+    },
+    {
+      "activity": "letter",
+      "width": 844,
+      "height": 390,
+      "level": "A",
+      "state": "complete",
+      "item": 20,
+      "issues": [],
+      "font": "20px",
+      "bodyScroll": [
+        844,
+        390
+      ]
+    },
+    {
+      "activity": "letter",
+      "width": 844,
+      "height": 390,
+      "level": "AA",
+      "state": "start",
+      "item": 43,
+      "issues": [],
+      "font": "20px",
+      "bodyScroll": [
+        844,
+        390
+      ]
+    },
+    {
+      "activity": "letter",
+      "width": 844,
+      "height": 390,
+      "level": "AA",
+      "state": "complete",
+      "item": 43,
+      "issues": [],
+      "font": "20px",
+      "bodyScroll": [
+        844,
+        390
+      ]
+    },
+    {
+      "activity": "paragraph",
+      "width": 844,
+      "height": 390,
+      "level": "A",
+      "state": "start",
+      "item": 25,
+      "issues": [],
+      "font": "13px",
+      "bodyScroll": [
+        844,
+        390
+      ]
+    },
+    {
+      "activity": "paragraph",
+      "width": 844,
+      "height": 390,
+      "level": "A",
+      "state": "complete",
+      "item": 25,
+      "issues": [],
+      "font": "17.5px",
+      "bodyScroll": [
+        844,
+        390
+      ]
+    },
+    {
+      "activity": "paragraph",
+      "width": 844,
+      "height": 390,
+      "level": "AA",
+      "state": "start",
+      "item": 28,
+      "issues": [],
+      "font": "12px",
+      "bodyScroll": [
+        844,
+        390
+      ]
+    },
+    {
+      "activity": "paragraph",
+      "width": 844,
+      "height": 390,
+      "level": "AA",
+      "state": "complete",
+      "item": 28,
+      "issues": [],
+      "font": "12.5px",
+      "bodyScroll": [
+        844,
+        390
+      ]
+    }
+  ],
+  "errors": [],
+  "contentPreserved": true,
+  "print": [
+    {
+      "activity": "letter",
+      "pages": 1
+    },
+    {
+      "activity": "paragraph",
+      "pages": 1
+    }
+  ],
+  "updated": "2026-10-26",
+  "controls": "Drag whole sentences with mouse, pen or touch. Paragraph bank and paragraph remain visible together."
+}

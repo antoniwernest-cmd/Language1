@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "file": "assets/words/sheet-1.png",
+    "words": [
+      "log",
+      "fox",
+      "hen",
+      "net",
+      "pan",
+      "pot",
+      "bat",
+      "sock",
+      "fish"
+    ],
+    "prompt": "Use case: illustration-story. Create ONE square 1536 by 1536 picture atlas for an early reading activity. A STRICT invisible 3 by 3 equal-cell grid, each cell exactly one third of the canvas. Nine separate polished Pixar-style 3D educational object illustrations on the same plain warm ivory background. Each subject is fully contained within the central 75 percent of its own cell, with generous empty margins. Subjects must never cross between cells. No written words, letters, numbers, labels, borders, dividers, logos or watermark. Cozy autumn colours and clear recognisable silhouettes. In exact reading order, left to right, top to bottom: 1: one cut wooden log with bark; 2: one friendly red fox; 3: one brown hen; 4: one handheld pond net; 5: one frying pan; 6: one cooking pot; 7: one brown flying bat mammal with two leathery wings, not a bug or sports bat; 8: one knitted sock; 9: one orange fish. Keep all nine subjects equally legible and separate.",
+    "source": "C:\\Users\\anton\\.codex\\generated_images\\01a165a8-955a-7281-849c-ad374063644a\\exec-c32f21b6-67cf-4790-ae4d-e3598a524eb5.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "b3be4a8f5afb667e84067aae7e53ad87a23838987c1d314cd3d9e886de6fca7b"
+  },
+  {
+    "id": 2,
+    "file": "assets/words/sheet-2.png",
+    "words": [
+      "ship",
+      "seed",
+      "coat",
+      "rake",
+      "rope",
+      "tent",
+      "hand",
+      "frog",
+      "ice"
+    ],
+    "prompt": "Use case: illustration-story. Create ONE square 1536 by 1536 picture atlas for an early reading activity. A STRICT invisible 3 by 3 equal-cell grid, each cell exactly one third of the canvas. Nine separate polished Pixar-style 3D educational object illustrations on the same plain warm ivory background. Each subject is fully contained within the central 75 percent of its own cell, with generous empty margins. Subjects must never cross between cells. No written words, letters, numbers, labels, borders, dividers, logos or watermark. Cozy autumn colours and clear recognisable silhouettes. In exact reading order, left to right, top to bottom: 1: one small ship with a cabin; 2: one large sunflower seed; 3: one autumn coat on a hanger; 4: one garden leaf rake; 5: one neatly coiled rope; 6: one green camping tent; 7: one open human hand, five fingers, wrist cropped naturally; 8: one green frog; 9: three clear ice cubes. Keep all nine subjects equally legible and separate.",
+    "source": "C:\\Users\\anton\\.codex\\generated_images\\01a165a8-955a-7281-849c-ad374063644a\\exec-9f3f0e26-3be8-47a3-9751-7e2fa78aabc0.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "ac1cf52bdd6cf150e200b841a130afafc1c85bf208d26a0bf8c03a1debbeb355"
+  },
+  {
+    "id": 3,
+    "file": "assets/words/sheet-3.png",
+    "words": [
+      "bee",
+      "stick",
+      "nest",
+      "drum",
+      "pin",
+      "fan",
+      "mug",
+      "pen",
+      "fin"
+    ],
+    "prompt": "Use case: illustration-story. Create ONE square 1536 by 1536 picture atlas for an early reading activity. A STRICT invisible 3 by 3 equal-cell grid, each cell exactly one third of the canvas. Nine separate polished Pixar-style 3D educational object illustrations on the same plain warm ivory background. Each subject is fully contained within the central 75 percent of its own cell, with generous empty margins. Subjects must never cross between cells. No written words, letters, numbers, labels, borders, dividers, logos or watermark. Cozy autumn colours and clear recognisable silhouettes. In exact reading order, left to right, top to bottom: 1: one fuzzy honeybee with stripes; 2: one simple forked stick; 3: one birds nest with eggs; 4: one small drum; 5: one sewing pin with a round head; 6: one desk fan; 7: one ceramic mug with a handle; 8: one blue ballpoint pen; 9: one fish tail fin in close-up, no fish body. Keep all nine subjects equally legible and separate.",
+    "source": "C:\\Users\\anton\\.codex\\generated_images\\01a165a8-955a-7281-849c-ad374063644a\\exec-afea0d7e-7af2-4889-92ba-0e650ee2ef6a.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "02e45ad95e78b0ebd6880b966dda3aaeaaf7b2a69883631959312478a0951336"
+  },
+  {
+    "id": 4,
+    "file": "assets/words/sheet-4.png",
+    "words": [
+      "cap",
+      "mat",
+      "pet",
+      "cot",
+      "peg",
+      "leg",
+      "top",
+      "nail",
+      "lip"
+    ],
+    "prompt": "Use case: illustration-story. Create ONE square 1536 by 1536 picture atlas for an early reading activity. A STRICT invisible 3 by 3 equal-cell grid, each cell exactly one third of the canvas. Nine separate polished Pixar-style 3D educational object illustrations on the same plain warm ivory background. Each subject is fully contained within the central 75 percent of its own cell, with generous empty margins. Subjects must never cross between cells. No written words, letters, numbers, labels, borders, dividers, logos or watermark. Cozy autumn colours and clear recognisable silhouettes. In exact reading order, left to right, top to bottom: 1: one baseball cap; 2: one oval woven doormat; 3: one pet rabbit resting in its basket; 4: one small camping cot; 5: one wooden clothes peg; 6: one leg wearing trousers and a boot, knee to foot; 7: one spinning toy top; 8: one steel construction nail; 9: a close-up of one friendly mouth with closed lips. Keep all nine subjects equally legible and separate.",
+    "source": "C:\\Users\\anton\\.codex\\generated_images\\01a165a8-955a-7281-849c-ad374063644a\\exec-d4164cf1-e7aa-45ae-b3a9-5fcf97ffe57f.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "2df28d281c1450f85462f46d258afce3cf3aec7fa43ee677ce404d7eac0ae4ec"
+  },
+  {
+    "id": 5,
+    "file": "assets/words/sheet-5.png",
+    "words": [
+      "wing",
+      "well",
+      "tool",
+      "rain",
+      "lake",
+      "lane",
+      "lap",
+      "lock",
+      "love"
+    ],
+    "prompt": "Use case: illustration-story. Create ONE square 1536 by 1536 picture atlas for an early reading activity. A STRICT invisible 3 by 3 equal-cell grid, each cell exactly one third of the canvas. Nine separate polished Pixar-style 3D educational object illustrations on the same plain warm ivory background. Each subject is fully contained within the central 75 percent of its own cell, with generous empty margins. Subjects must never cross between cells. No written words, letters, numbers, labels, borders, dividers, logos or watermark. Cozy autumn colours and clear recognisable silhouettes. In exact reading order, left to right, top to bottom: 1: one feathered bird wing spread open, no bird body; 2: one stone water well with a bucket; 3: one hammer as a simple tool; 4: rain falling from a small grey cloud onto a puddle; 5: one small calm lake edged by autumn trees; 6: one narrow country road lane between autumn hedges; 7: a seated child in a sweater, crop from waist to knees to show their empty lap clearly; 8: one brass padlock; 9: one warm red heart symbol. Keep all nine subjects equally legible and separate.",
+    "source": "C:\\Users\\anton\\.codex\\generated_images\\01a165a8-955a-7281-849c-ad374063644a\\exec-4ace1b76-ec1a-48cc-aafd-62ac676adfe4.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "8e5fad4b05223c0b44f0972051c1b8fe299b52d504a097be487a3b8c348787b0"
+  },
+  {
+    "id": 6,
+    "file": "assets/words/sheet-6.png",
+    "words": [
+      "car",
+      "coal",
+      "ten",
+      "plan",
+      "cab",
+      "tin",
+      "bow",
+      "ear",
+      "ant"
+    ],
+    "prompt": "Use case: illustration-story. Create ONE square 1536 by 1536 picture atlas for an early reading activity. A STRICT invisible 3 by 3 equal-cell grid, each cell exactly one third of the canvas. Nine separate polished Pixar-style 3D educational object illustrations on the same plain warm ivory background. Each subject is fully contained within the central 75 percent of its own cell, with generous empty margins. Subjects must never cross between cells. No written words, letters, numbers, labels, borders, dividers, logos or watermark. Cozy autumn colours and clear recognisable silhouettes. In exact reading order, left to right, top to bottom: 1: one small car; 2: three shiny black chunks of coal; 3: ten red apples arranged in two neat rows of five, exactly ten, no numerals; 4: one rolled-out floor plan drawing with room outlines, no text or numbers; 5: one yellow taxi cab without words or logos; 6: one unlabelled metal food tin; 7: one tied ribbon bow; 8: one human ear in close-up; 9: one small friendly ant with six legs. Keep all nine subjects equally legible and separate.",
+    "source": "C:\\Users\\anton\\.codex\\generated_images\\01a165a8-955a-7281-849c-ad374063644a\\exec-44dd5bc3-3409-430e-bed0-5e48f24196d7.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "7246ace447679d9b53a477c787d7c376e20a54f39be2399595fd2b441eca5259"
+  },
+  {
+    "id": 7,
+    "file": "assets/words/sheet-7.png",
+    "words": [
+      "nap",
+      "weep",
+      "tip",
+      "eat",
+      "oat",
+      "key",
+      "cow",
+      "moon",
+      "red"
+    ],
+    "prompt": "Use case: illustration-story. Create ONE square 1536 by 1536 picture atlas for an early reading activity. A STRICT invisible 3 by 3 equal-cell grid, each cell exactly one third of the canvas. Nine separate polished Pixar-style 3D educational object illustrations on the same plain warm ivory background. Each subject is fully contained within the central 75 percent of its own cell, with generous empty margins. Subjects must never cross between cells. No written words, letters, numbers, labels, borders, dividers, logos or watermark. Cozy autumn colours and clear recognisable silhouettes. In exact reading order, left to right, top to bottom: 1: one child curled asleep on a cushion for a nap; 2: one child quietly crying with two visible tears, no injury; 3: close-up of the pointed tip of a yellow pencil, graphite point prominent; 4: one child taking a bite of an apple; 5: a little pile of oat grains with an oat stalk; 6: one brass key; 7: one friendly black-and-white cow; 8: one crescent moon; 9: one bright red maple leaf. Keep all nine subjects equally legible and separate.",
+    "source": "C:\\Users\\anton\\.codex\\generated_images\\01a165a8-955a-7281-849c-ad374063644a\\exec-b362938a-be97-48a1-8fa8-cae2e8e57de6.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "8f706c1e0eb9017685ddbea0a00527f30955b81f57ed95578bc3264ca9b2473c"
+  },
+  {
+    "id": 8,
+    "file": "assets/words/sheet-8.png",
+    "words": [
+      "hot",
+      "cut",
+      "fog",
+      "lamp",
+      "boot",
+      "run",
+      "duck",
+      "pumpkin",
+      "acorn"
+    ],
+    "prompt": "Use case: illustration-story. Create ONE square 1536 by 1536 picture atlas for an early reading activity. A STRICT invisible 3 by 3 equal-cell grid, each cell exactly one third of the canvas. Nine separate polished Pixar-style 3D educational object illustrations on the same plain warm ivory background. Each subject is fully contained within the central 75 percent of its own cell, with generous empty margins. Subjects must never cross between cells. No written words, letters, numbers, labels, borders, dividers, logos or watermark. Cozy autumn colours and clear recognisable silhouettes. In exact reading order, left to right, top to bottom: 1: one steaming mug with visible heat curls; 2: one pair of scissors actively cutting a strip of paper, no hands; 3: a small grove of autumn trees partly veiled by pale fog; 4: one table lamp; 5: one autumn rain boot; 6: one fully clothed child running, full body, natural anatomy; 7: one healthy brown duck; 8: one orange pumpkin; 9: one acorn with its cap. Keep all nine subjects equally legible and separate.",
+    "source": "C:\\Users\\anton\\.codex\\generated_images\\01a165a8-955a-7281-849c-ad374063644a\\exec-6e0c6ea1-9877-4b02-a35b-318edd464e93.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "85dafe69be72276d349e76e242b2d7a12b9ec04118bd58d94585ad3dc42806c2"
+  }
+]

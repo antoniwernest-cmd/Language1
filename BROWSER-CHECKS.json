@@ -1,0 +1,850 @@
+{
+  "status": "passed",
+  "activityAnswerChecks": [
+    {
+      "activity": "choose-word",
+      "score": "1 / 30",
+      "feedback": "✓ You did it!"
+    },
+    {
+      "activity": "missing-letter",
+      "score": "1 / 30",
+      "feedback": "✓ You did it!"
+    },
+    {
+      "activity": "word-chains",
+      "score": "1 / 30",
+      "feedback": "✓ You did it!"
+    },
+    {
+      "activity": "read-match",
+      "score": "1 / 30",
+      "feedback": "✓ You did it!"
+    },
+    {
+      "activity": "blend-sounds",
+      "score": "1 / 30",
+      "feedback": "✓ You did it!"
+    },
+    {
+      "activity": "count-sounds",
+      "score": "1 / 30",
+      "feedback": "✓ You did it!"
+    },
+    {
+      "activity": "change-sound",
+      "score": "1 / 30",
+      "feedback": "✓ You did it!"
+    },
+    {
+      "activity": "delete-sound",
+      "score": "1 / 30",
+      "feedback": "✓ You did it!"
+    },
+    {
+      "activity": "first-sound",
+      "score": "1 / 30",
+      "feedback": "✓ You did it!"
+    }
+  ],
+  "dragPlacementVerified": true,
+  "typingVerified": true,
+  "wrongAnswerFeedbackVerified": true,
+  "persistenceAfterReloadVerified": true,
+  "profileSeparationVerified": true,
+  "repeatedLettersVerified": true,
+  "duplicatePointsPrevented": true,
+  "question30AndFinishReviewVerified": true,
+  "assessmentDownloadVerified": true,
+  "activityLayouts": [
+    {
+      "mode": "build-word",
+      "height": 768,
+      "outside": [],
+      "overflow": [],
+      "question": "Question 26 / 30",
+      "width": 1366
+    },
+    {
+      "mode": "choose-word",
+      "height": 768,
+      "outside": [],
+      "overflow": [],
+      "pageHeight": 768,
+      "pageWidth": 1366,
+      "width": 1366
+    },
+    {
+      "mode": "missing-letter",
+      "height": 768,
+      "outside": [],
+      "overflow": [],
+      "pageHeight": 768,
+      "pageWidth": 1366,
+      "width": 1366
+    },
+    {
+      "mode": "word-chains",
+      "height": 768,
+      "outside": [],
+      "overflow": [],
+      "pageHeight": 768,
+      "pageWidth": 1366,
+      "width": 1366
+    },
+    {
+      "mode": "read-match",
+      "height": 768,
+      "outside": [],
+      "overflow": [],
+      "question": "Question 30 / 30",
+      "width": 1366
+    },
+    {
+      "mode": "blend-sounds",
+      "height": 768,
+      "outside": [],
+      "overflow": [],
+      "pageHeight": 768,
+      "pageWidth": 1366,
+      "width": 1366
+    },
+    {
+      "mode": "count-sounds",
+      "height": 768,
+      "outside": [],
+      "overflow": [],
+      "question": "Question 30 / 30",
+      "width": 1366
+    },
+    {
+      "mode": "change-sound",
+      "height": 768,
+      "outside": [],
+      "overflow": [],
+      "pageHeight": 768,
+      "pageWidth": 1366,
+      "width": 1366
+    },
+    {
+      "mode": "delete-sound",
+      "height": 768,
+      "outside": [],
+      "overflow": [],
+      "pageHeight": 768,
+      "pageWidth": 1366,
+      "width": 1366
+    },
+    {
+      "mode": "first-sound",
+      "height": 768,
+      "outside": [],
+      "overflow": [],
+      "pageHeight": 768,
+      "pageWidth": 1366,
+      "width": 1366
+    },
+    {
+      "mode": "build-word",
+      "height": 768,
+      "outside": [],
+      "overflow": [],
+      "question": "Question 26 / 30",
+      "width": 1024
+    },
+    {
+      "mode": "choose-word",
+      "height": 768,
+      "outside": [],
+      "overflow": [],
+      "pageHeight": 768,
+      "pageWidth": 1024,
+      "width": 1024
+    },
+    {
+      "mode": "missing-letter",
+      "height": 768,
+      "outside": [],
+      "overflow": [],
+      "pageHeight": 768,
+      "pageWidth": 1024,
+      "width": 1024
+    },
+    {
+      "mode": "word-chains",
+      "height": 768,
+      "outside": [],
+      "overflow": [],
+      "pageHeight": 768,
+      "pageWidth": 1024,
+      "width": 1024
+    },
+    {
+      "mode": "read-match",
+      "height": 768,
+      "outside": [],
+      "overflow": [],
+      "question": "Question 30 / 30",
+      "width": 1024
+    },
+    {
+      "mode": "blend-sounds",
+      "height": 768,
+      "outside": [],
+      "overflow": [],
+      "pageHeight": 768,
+      "pageWidth": 1024,
+      "width": 1024
+    },
+    {
+      "mode": "count-sounds",
+      "height": 768,
+      "outside": [],
+      "overflow": [],
+      "question": "Question 30 / 30",
+      "width": 1024
+    },
+    {
+      "mode": "change-sound",
+      "height": 768,
+      "outside": [],
+      "overflow": [],
+      "pageHeight": 768,
+      "pageWidth": 1024,
+      "width": 1024
+    },
+    {
+      "mode": "delete-sound",
+      "height": 768,
+      "outside": [],
+      "overflow": [],
+      "pageHeight": 768,
+      "pageWidth": 1024,
+      "width": 1024
+    },
+    {
+      "mode": "first-sound",
+      "height": 768,
+      "outside": [],
+      "overflow": [],
+      "pageHeight": 768,
+      "pageWidth": 1024,
+      "width": 1024
+    },
+    {
+      "mode": "build-word",
+      "height": 1024,
+      "outside": [],
+      "overflow": [],
+      "question": "Question 26 / 30",
+      "width": 768
+    },
+    {
+      "mode": "choose-word",
+      "height": 1024,
+      "outside": [],
+      "overflow": [],
+      "pageHeight": 1024,
+      "pageWidth": 768,
+      "width": 768
+    },
+    {
+      "mode": "missing-letter",
+      "height": 1024,
+      "outside": [],
+      "overflow": [],
+      "pageHeight": 1024,
+      "pageWidth": 768,
+      "width": 768
+    },
+    {
+      "mode": "word-chains",
+      "height": 1024,
+      "outside": [],
+      "overflow": [],
+      "pageHeight": 1024,
+      "pageWidth": 768,
+      "width": 768
+    },
+    {
+      "mode": "read-match",
+      "height": 1024,
+      "outside": [],
+      "overflow": [],
+      "question": "Question 30 / 30",
+      "width": 768
+    },
+    {
+      "mode": "blend-sounds",
+      "height": 1024,
+      "outside": [],
+      "overflow": [],
+      "pageHeight": 1024,
+      "pageWidth": 768,
+      "width": 768
+    },
+    {
+      "mode": "count-sounds",
+      "height": 1024,
+      "outside": [],
+      "overflow": [],
+      "question": "Question 30 / 30",
+      "width": 768
+    },
+    {
+      "mode": "change-sound",
+      "height": 1024,
+      "outside": [],
+      "overflow": [],
+      "pageHeight": 1024,
+      "pageWidth": 768,
+      "width": 768
+    },
+    {
+      "mode": "delete-sound",
+      "height": 1024,
+      "outside": [],
+      "overflow": [],
+      "pageHeight": 1024,
+      "pageWidth": 768,
+      "width": 768
+    },
+    {
+      "mode": "first-sound",
+      "height": 1024,
+      "outside": [],
+      "overflow": [],
+      "pageHeight": 1024,
+      "pageWidth": 768,
+      "width": 768
+    },
+    {
+      "mode": "build-word",
+      "height": 812,
+      "outside": [],
+      "overflow": [],
+      "question": "Question 26 / 30",
+      "width": 375
+    },
+    {
+      "mode": "choose-word",
+      "height": 812,
+      "outside": [],
+      "overflow": [],
+      "pageHeight": 812,
+      "pageWidth": 375,
+      "width": 375
+    },
+    {
+      "mode": "missing-letter",
+      "height": 812,
+      "outside": [],
+      "overflow": [],
+      "pageHeight": 812,
+      "pageWidth": 375,
+      "width": 375
+    },
+    {
+      "mode": "word-chains",
+      "height": 812,
+      "outside": [],
+      "overflow": [],
+      "pageHeight": 812,
+      "pageWidth": 375,
+      "width": 375
+    },
+    {
+      "mode": "read-match",
+      "height": 812,
+      "outside": [],
+      "overflow": [],
+      "question": "Question 30 / 30",
+      "width": 375
+    },
+    {
+      "mode": "blend-sounds",
+      "height": 812,
+      "outside": [],
+      "overflow": [],
+      "pageHeight": 812,
+      "pageWidth": 375,
+      "width": 375
+    },
+    {
+      "mode": "count-sounds",
+      "height": 812,
+      "outside": [],
+      "overflow": [],
+      "question": "Question 30 / 30",
+      "width": 375
+    },
+    {
+      "mode": "change-sound",
+      "height": 812,
+      "outside": [],
+      "overflow": [],
+      "pageHeight": 812,
+      "pageWidth": 375,
+      "width": 375
+    },
+    {
+      "mode": "delete-sound",
+      "height": 812,
+      "outside": [],
+      "overflow": [],
+      "pageHeight": 812,
+      "pageWidth": 375,
+      "width": 375
+    },
+    {
+      "mode": "first-sound",
+      "height": 812,
+      "outside": [],
+      "overflow": [],
+      "pageHeight": 812,
+      "pageWidth": 375,
+      "width": 375
+    },
+    {
+      "mode": "build-word",
+      "height": 667,
+      "outside": [],
+      "overflow": [],
+      "question": "Question 26 / 30",
+      "width": 375
+    },
+    {
+      "mode": "choose-word",
+      "height": 667,
+      "outside": [],
+      "overflow": [],
+      "pageHeight": 667,
+      "pageWidth": 375,
+      "width": 375
+    },
+    {
+      "mode": "missing-letter",
+      "height": 667,
+      "outside": [],
+      "overflow": [],
+      "pageHeight": 667,
+      "pageWidth": 375,
+      "width": 375
+    },
+    {
+      "mode": "word-chains",
+      "height": 667,
+      "outside": [],
+      "overflow": [],
+      "pageHeight": 667,
+      "pageWidth": 375,
+      "width": 375
+    },
+    {
+      "mode": "read-match",
+      "height": 667,
+      "outside": [],
+      "overflow": [],
+      "question": "Question 30 / 30",
+      "width": 375
+    },
+    {
+      "mode": "blend-sounds",
+      "height": 667,
+      "outside": [],
+      "overflow": [],
+      "pageHeight": 667,
+      "pageWidth": 375,
+      "width": 375
+    },
+    {
+      "mode": "count-sounds",
+      "height": 667,
+      "outside": [],
+      "overflow": [],
+      "question": "Question 30 / 30",
+      "width": 375
+    },
+    {
+      "mode": "change-sound",
+      "height": 667,
+      "outside": [],
+      "overflow": [],
+      "pageHeight": 667,
+      "pageWidth": 375,
+      "width": 375
+    },
+    {
+      "mode": "delete-sound",
+      "height": 667,
+      "outside": [],
+      "overflow": [],
+      "pageHeight": 667,
+      "pageWidth": 375,
+      "width": 375
+    },
+    {
+      "mode": "first-sound",
+      "height": 667,
+      "outside": [],
+      "overflow": [],
+      "pageHeight": 667,
+      "pageWidth": 375,
+      "width": 375
+    },
+    {
+      "mode": "build-word",
+      "height": 414,
+      "outside": [],
+      "overflow": [],
+      "question": "Question 26 / 30",
+      "width": 896
+    },
+    {
+      "mode": "choose-word",
+      "height": 414,
+      "outside": [],
+      "overflow": [],
+      "pageHeight": 414,
+      "pageWidth": 896,
+      "width": 896
+    },
+    {
+      "mode": "missing-letter",
+      "height": 414,
+      "outside": [],
+      "overflow": [],
+      "pageHeight": 414,
+      "pageWidth": 896,
+      "width": 896
+    },
+    {
+      "mode": "word-chains",
+      "height": 414,
+      "outside": [],
+      "overflow": [],
+      "pageHeight": 414,
+      "pageWidth": 896,
+      "width": 896
+    },
+    {
+      "mode": "read-match",
+      "height": 414,
+      "outside": [],
+      "overflow": [],
+      "question": "Question 30 / 30",
+      "width": 896
+    },
+    {
+      "mode": "blend-sounds",
+      "height": 414,
+      "outside": [],
+      "overflow": [],
+      "pageHeight": 414,
+      "pageWidth": 896,
+      "width": 896
+    },
+    {
+      "mode": "count-sounds",
+      "height": 414,
+      "outside": [],
+      "overflow": [],
+      "question": "Question 30 / 30",
+      "width": 896
+    },
+    {
+      "mode": "change-sound",
+      "height": 414,
+      "outside": [],
+      "overflow": [],
+      "pageHeight": 414,
+      "pageWidth": 896,
+      "width": 896
+    },
+    {
+      "mode": "delete-sound",
+      "height": 414,
+      "outside": [],
+      "overflow": [],
+      "pageHeight": 414,
+      "pageWidth": 896,
+      "width": 896
+    },
+    {
+      "mode": "first-sound",
+      "height": 414,
+      "outside": [],
+      "overflow": [],
+      "pageHeight": 414,
+      "pageWidth": 896,
+      "width": 896
+    }
+  ],
+  "largerQuestionLayouts": [
+    {
+      "mode": "build-word",
+      "height": 768,
+      "outside": [],
+      "overflow": [],
+      "question": "Question 26 / 30",
+      "width": 1366
+    },
+    {
+      "mode": "read-match",
+      "height": 768,
+      "outside": [],
+      "overflow": [],
+      "question": "Question 30 / 30",
+      "width": 1366
+    },
+    {
+      "mode": "count-sounds",
+      "height": 768,
+      "outside": [],
+      "overflow": [],
+      "question": "Question 30 / 30",
+      "width": 1366
+    },
+    {
+      "mode": "build-word",
+      "height": 768,
+      "outside": [],
+      "overflow": [],
+      "question": "Question 26 / 30",
+      "width": 1024
+    },
+    {
+      "mode": "read-match",
+      "height": 768,
+      "outside": [],
+      "overflow": [],
+      "question": "Question 30 / 30",
+      "width": 1024
+    },
+    {
+      "mode": "count-sounds",
+      "height": 768,
+      "outside": [],
+      "overflow": [],
+      "question": "Question 30 / 30",
+      "width": 1024
+    },
+    {
+      "mode": "build-word",
+      "height": 1024,
+      "outside": [],
+      "overflow": [],
+      "question": "Question 26 / 30",
+      "width": 768
+    },
+    {
+      "mode": "read-match",
+      "height": 1024,
+      "outside": [],
+      "overflow": [],
+      "question": "Question 30 / 30",
+      "width": 768
+    },
+    {
+      "mode": "count-sounds",
+      "height": 1024,
+      "outside": [],
+      "overflow": [],
+      "question": "Question 30 / 30",
+      "width": 768
+    },
+    {
+      "mode": "build-word",
+      "height": 812,
+      "outside": [],
+      "overflow": [],
+      "question": "Question 26 / 30",
+      "width": 375
+    },
+    {
+      "mode": "read-match",
+      "height": 812,
+      "outside": [],
+      "overflow": [],
+      "question": "Question 30 / 30",
+      "width": 375
+    },
+    {
+      "mode": "count-sounds",
+      "height": 812,
+      "outside": [],
+      "overflow": [],
+      "question": "Question 30 / 30",
+      "width": 375
+    },
+    {
+      "mode": "build-word",
+      "height": 667,
+      "outside": [],
+      "overflow": [],
+      "question": "Question 26 / 30",
+      "width": 375
+    },
+    {
+      "mode": "read-match",
+      "height": 667,
+      "outside": [],
+      "overflow": [],
+      "question": "Question 30 / 30",
+      "width": 375
+    },
+    {
+      "mode": "count-sounds",
+      "height": 667,
+      "outside": [],
+      "overflow": [],
+      "question": "Question 30 / 30",
+      "width": 375
+    },
+    {
+      "mode": "build-word",
+      "height": 414,
+      "outside": [],
+      "overflow": [],
+      "question": "Question 26 / 30",
+      "width": 896
+    },
+    {
+      "mode": "read-match",
+      "height": 414,
+      "outside": [],
+      "overflow": [],
+      "question": "Question 30 / 30",
+      "width": 896
+    },
+    {
+      "mode": "count-sounds",
+      "height": 414,
+      "outside": [],
+      "overflow": [],
+      "question": "Question 30 / 30",
+      "width": 896
+    }
+  ],
+  "entryLayouts": [
+    {
+      "screen": "identity",
+      "height": 768,
+      "outside": [],
+      "overflow": [],
+      "width": 1366
+    },
+    {
+      "screen": "identity",
+      "height": 768,
+      "outside": [],
+      "overflow": [],
+      "width": 1024
+    },
+    {
+      "screen": "identity",
+      "height": 812,
+      "outside": [],
+      "overflow": [],
+      "width": 375
+    },
+    {
+      "screen": "identity",
+      "height": 667,
+      "outside": [],
+      "overflow": [],
+      "width": 375
+    },
+    {
+      "screen": "identity",
+      "height": 414,
+      "outside": [],
+      "overflow": [],
+      "width": 896
+    },
+    {
+      "screen": "landing",
+      "category": "both",
+      "height": 768,
+      "outside": [],
+      "overflow": [],
+      "width": 1366
+    },
+    {
+      "screen": "landing",
+      "category": "both",
+      "height": 768,
+      "outside": [],
+      "overflow": [],
+      "width": 1024
+    },
+    {
+      "screen": "landing",
+      "category": "word",
+      "height": 1024,
+      "outside": [],
+      "overflow": [],
+      "width": 768
+    },
+    {
+      "screen": "landing",
+      "category": "sound",
+      "height": 1024,
+      "outside": [],
+      "overflow": [],
+      "width": 768
+    },
+    {
+      "screen": "landing",
+      "category": "word",
+      "height": 812,
+      "outside": [],
+      "overflow": [],
+      "width": 375
+    },
+    {
+      "screen": "landing",
+      "category": "sound",
+      "height": 812,
+      "outside": [],
+      "overflow": [],
+      "width": 375
+    },
+    {
+      "screen": "landing",
+      "category": "word",
+      "height": 667,
+      "outside": [],
+      "overflow": [],
+      "width": 375
+    },
+    {
+      "screen": "landing",
+      "category": "sound",
+      "height": 667,
+      "outside": [],
+      "overflow": [],
+      "width": 375
+    },
+    {
+      "screen": "landing",
+      "category": "both",
+      "height": 414,
+      "outside": [],
+      "overflow": [],
+      "width": 896
+    },
+    {
+      "screen": "identity",
+      "height": 1024,
+      "outside": [],
+      "overflow": [],
+      "width": 768
+    }
+  ],
+  "audioRevision": {
+    "scope": "Audio assets and playback triggers only; existing layout checks retained.",
+    "verification": "All 300 revised WAV assets and 182 isolated phoneme segments checked locally; code confirms automatic spoken feedback removed.",
+    "report": "PRONUNCIATION-CHECKS.json"
+  }
+}

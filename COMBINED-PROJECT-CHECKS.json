@@ -1,0 +1,46 @@
+{
+  "readingActivities": 8,
+  "autumnActivities": 10,
+  "totalActivities": 32,
+  "additionalLocalProjects": 14,
+  "sharedLanding": "index.html",
+  "readingFolder": "Reading-Adventures",
+  "autumnQuestions": 300,
+  "existingAutumnQuestionIdsAndAnswersPreserved": true,
+  "autumnStorageKeyPreserved": true,
+  "linkedFilesChecked": 138,
+  "localReferencesChecked": 286,
+  "missing": [],
+  "outside": [],
+  "readingActivityLinks": [
+    "Sentence-Adventures/activity.html",
+    "Sentences-Adventures-2/activity.html",
+    "Before-and-After-Adventures/activity.html",
+    "Letter-Writing/activity.html",
+    "Language-Adventures/activity.html?game=pronoun",
+    "Language-Adventures/activity.html?game=homophone",
+    "Language-Adventures/activity.html?game=paragraph",
+    "Language-Adventures/activity.html?game=meaning"
+  ],
+  "uniqueActivityEntries": 32,
+  "duplicateEntryUrls": 0,
+  "omittedDuplicateCopies": [
+    "Sentence Adventures 1 and 2 from the additional word-skills menu (already in Reading Adventures)",
+    "Unlinked Adventure1 copy of the complete Reading collection",
+    "Blend-Master/BlendMasterD",
+    "Blend-Master/BlendMasterE",
+    "Compound-Master/CompoundMasterA",
+    "Spelling-Master/Spelling Master A",
+    "Mystic-Series/ABC-Sentences/MysticCat",
+    "Mystic-Series/Grade-1-CVC/Mystsiccatgrade1",
+    "Mystic-Series/Halloween/halloweencatt",
+    "Mystic-Series/Halloween/MysticHalloweenCat"
+  ],
+  "embeddedGitDirectories": 0,
+  "localSourcesOnly": true,
+  "collections": {
+    "reading": 8,
+    "autumn": 10,
+    "wordAndReadingSkills": 14
+  }
+}

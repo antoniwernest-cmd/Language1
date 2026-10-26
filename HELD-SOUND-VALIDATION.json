@@ -1,0 +1,11 @@
+{
+  "updatedClipsValidated": 120,
+  "nonSoundSpeechPreservedBitForBit": 120,
+  "all300QuestionAudioFilesPresent": true,
+  "questionIdsAnswersAndPictureIdsUnchanged": true,
+  "mHeldMilliseconds": 1200,
+  "mMinimumInterior20msRms": 447.91,
+  "clippedSamples": 0,
+  "newLetterNamesOrVowels": false,
+  "all32ActivityEntriesRetained": true
+}

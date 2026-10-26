@@ -1,0 +1,759 @@
+{
+  "checks": [
+    {
+      "size": {
+        "width": 1366,
+        "height": 768
+      },
+      "mode": "build-word",
+      "bad": [],
+      "bodyOverflow": false,
+      "picture": "cat",
+      "picturePanelHidden": false,
+      "question": "Question 1 / 30",
+      "title": "Build the Word",
+      "unrelatedScene": false,
+      "workspaceOverflow": false
+    },
+    {
+      "size": {
+        "width": 1366,
+        "height": 768
+      },
+      "mode": "choose-word",
+      "bad": [],
+      "bodyOverflow": false,
+      "picture": "cat",
+      "picturePanelHidden": false,
+      "question": "Question 1 / 30",
+      "title": "Choose the Correct Word",
+      "unrelatedScene": false,
+      "workspaceOverflow": false
+    },
+    {
+      "size": {
+        "width": 1366,
+        "height": 768
+      },
+      "mode": "missing-letter",
+      "bad": [],
+      "bodyOverflow": false,
+      "picture": "cat",
+      "picturePanelHidden": false,
+      "question": "Question 1 / 30",
+      "title": "Missing Letter",
+      "unrelatedScene": false,
+      "workspaceOverflow": false
+    },
+    {
+      "size": {
+        "width": 1366,
+        "height": 768
+      },
+      "mode": "word-chains",
+      "bad": [],
+      "bodyOverflow": false,
+      "picture": "bat",
+      "picturePanelHidden": false,
+      "question": "Question 1 / 30",
+      "title": "Word Chains",
+      "unrelatedScene": false,
+      "workspaceOverflow": false
+    },
+    {
+      "size": {
+        "width": 1366,
+        "height": 768
+      },
+      "mode": "read-match",
+      "bad": [],
+      "bodyOverflow": false,
+      "picture": null,
+      "picturePanelHidden": true,
+      "question": "Question 1 / 30",
+      "title": "Read and Match",
+      "unrelatedScene": false,
+      "workspaceOverflow": false
+    },
+    {
+      "size": {
+        "width": 1366,
+        "height": 768
+      },
+      "mode": "blend-sounds",
+      "bad": [],
+      "bodyOverflow": false,
+      "picture": null,
+      "picturePanelHidden": true,
+      "question": "Question 1 / 30",
+      "title": "Blend the Sounds",
+      "unrelatedScene": false,
+      "workspaceOverflow": false
+    },
+    {
+      "size": {
+        "width": 1366,
+        "height": 768
+      },
+      "mode": "count-sounds",
+      "bad": [],
+      "bodyOverflow": false,
+      "picture": "bee",
+      "picturePanelHidden": false,
+      "question": "Question 1 / 30",
+      "title": "Count the Sounds",
+      "unrelatedScene": false,
+      "workspaceOverflow": false
+    },
+    {
+      "size": {
+        "width": 1366,
+        "height": 768
+      },
+      "mode": "change-sound",
+      "bad": [],
+      "bodyOverflow": false,
+      "picture": null,
+      "picturePanelHidden": true,
+      "question": "Question 1 / 30",
+      "title": "Change the Sound",
+      "unrelatedScene": false,
+      "workspaceOverflow": false
+    },
+    {
+      "size": {
+        "width": 1366,
+        "height": 768
+      },
+      "mode": "delete-sound",
+      "bad": [],
+      "bodyOverflow": false,
+      "picture": null,
+      "picturePanelHidden": true,
+      "question": "Question 1 / 30",
+      "title": "Delete the Sound",
+      "unrelatedScene": false,
+      "workspaceOverflow": false
+    },
+    {
+      "size": {
+        "width": 1366,
+        "height": 768
+      },
+      "mode": "first-sound",
+      "bad": [],
+      "bodyOverflow": false,
+      "picture": "sun",
+      "picturePanelHidden": false,
+      "question": "Question 1 / 30",
+      "title": "Find the First Sound",
+      "unrelatedScene": false,
+      "workspaceOverflow": false
+    },
+    {
+      "size": {
+        "width": 1024,
+        "height": 768
+      },
+      "mode": "build-word",
+      "bad": [],
+      "bodyOverflow": false,
+      "picture": "cat",
+      "picturePanelHidden": false,
+      "question": "Question 1 / 30",
+      "title": "Build the Word",
+      "unrelatedScene": false,
+      "workspaceOverflow": false
+    },
+    {
+      "size": {
+        "width": 1024,
+        "height": 768
+      },
+      "mode": "choose-word",
+      "bad": [],
+      "bodyOverflow": false,
+      "picture": "cat",
+      "picturePanelHidden": false,
+      "question": "Question 1 / 30",
+      "title": "Choose the Correct Word",
+      "unrelatedScene": false,
+      "workspaceOverflow": false
+    },
+    {
+      "size": {
+        "width": 1024,
+        "height": 768
+      },
+      "mode": "missing-letter",
+      "bad": [],
+      "bodyOverflow": false,
+      "picture": "cat",
+      "picturePanelHidden": false,
+      "question": "Question 1 / 30",
+      "title": "Missing Letter",
+      "unrelatedScene": false,
+      "workspaceOverflow": false
+    },
+    {
+      "size": {
+        "width": 1024,
+        "height": 768
+      },
+      "mode": "word-chains",
+      "bad": [],
+      "bodyOverflow": false,
+      "picture": "bat",
+      "picturePanelHidden": false,
+      "question": "Question 1 / 30",
+      "title": "Word Chains",
+      "unrelatedScene": false,
+      "workspaceOverflow": false
+    },
+    {
+      "size": {
+        "width": 1024,
+        "height": 768
+      },
+      "mode": "read-match",
+      "bad": [],
+      "bodyOverflow": false,
+      "picture": null,
+      "picturePanelHidden": true,
+      "question": "Question 1 / 30",
+      "title": "Read and Match",
+      "unrelatedScene": false,
+      "workspaceOverflow": false
+    },
+    {
+      "size": {
+        "width": 1024,
+        "height": 768
+      },
+      "mode": "blend-sounds",
+      "bad": [],
+      "bodyOverflow": false,
+      "picture": null,
+      "picturePanelHidden": true,
+      "question": "Question 1 / 30",
+      "title": "Blend the Sounds",
+      "unrelatedScene": false,
+      "workspaceOverflow": false
+    },
+    {
+      "size": {
+        "width": 1024,
+        "height": 768
+      },
+      "mode": "count-sounds",
+      "bad": [],
+      "bodyOverflow": false,
+      "picture": "bee",
+      "picturePanelHidden": false,
+      "question": "Question 1 / 30",
+      "title": "Count the Sounds",
+      "unrelatedScene": false,
+      "workspaceOverflow": false
+    },
+    {
+      "size": {
+        "width": 1024,
+        "height": 768
+      },
+      "mode": "change-sound",
+      "bad": [],
+      "bodyOverflow": false,
+      "picture": null,
+      "picturePanelHidden": true,
+      "question": "Question 1 / 30",
+      "title": "Change the Sound",
+      "unrelatedScene": false,
+      "workspaceOverflow": false
+    },
+    {
+      "size": {
+        "width": 1024,
+        "height": 768
+      },
+      "mode": "delete-sound",
+      "bad": [],
+      "bodyOverflow": false,
+      "picture": null,
+      "picturePanelHidden": true,
+      "question": "Question 1 / 30",
+      "title": "Delete the Sound",
+      "unrelatedScene": false,
+      "workspaceOverflow": false
+    },
+    {
+      "size": {
+        "width": 1024,
+        "height": 768
+      },
+      "mode": "first-sound",
+      "bad": [],
+      "bodyOverflow": false,
+      "picture": "sun",
+      "picturePanelHidden": false,
+      "question": "Question 1 / 30",
+      "title": "Find the First Sound",
+      "unrelatedScene": false,
+      "workspaceOverflow": false
+    },
+    {
+      "size": {
+        "width": 768,
+        "height": 1024
+      },
+      "mode": "build-word",
+      "bad": [],
+      "bodyOverflow": false,
+      "picture": "cat",
+      "picturePanelHidden": false,
+      "question": "Question 1 / 30",
+      "title": "Build the Word",
+      "unrelatedScene": false,
+      "workspaceOverflow": false
+    },
+    {
+      "size": {
+        "width": 768,
+        "height": 1024
+      },
+      "mode": "choose-word",
+      "bad": [],
+      "bodyOverflow": false,
+      "picture": "cat",
+      "picturePanelHidden": false,
+      "question": "Question 1 / 30",
+      "title": "Choose the Correct Word",
+      "unrelatedScene": false,
+      "workspaceOverflow": false
+    },
+    {
+      "size": {
+        "width": 768,
+        "height": 1024
+      },
+      "mode": "missing-letter",
+      "bad": [],
+      "bodyOverflow": false,
+      "picture": "cat",
+      "picturePanelHidden": false,
+      "question": "Question 1 / 30",
+      "title": "Missing Letter",
+      "unrelatedScene": false,
+      "workspaceOverflow": false
+    },
+    {
+      "size": {
+        "width": 768,
+        "height": 1024
+      },
+      "mode": "word-chains",
+      "bad": [],
+      "bodyOverflow": false,
+      "picture": "bat",
+      "picturePanelHidden": false,
+      "question": "Question 1 / 30",
+      "title": "Word Chains",
+      "unrelatedScene": false,
+      "workspaceOverflow": false
+    },
+    {
+      "size": {
+        "width": 768,
+        "height": 1024
+      },
+      "mode": "read-match",
+      "bad": [],
+      "bodyOverflow": false,
+      "picture": null,
+      "picturePanelHidden": true,
+      "question": "Question 1 / 30",
+      "title": "Read and Match",
+      "unrelatedScene": false,
+      "workspaceOverflow": false
+    },
+    {
+      "size": {
+        "width": 768,
+        "height": 1024
+      },
+      "mode": "blend-sounds",
+      "bad": [],
+      "bodyOverflow": false,
+      "picture": null,
+      "picturePanelHidden": true,
+      "question": "Question 1 / 30",
+      "title": "Blend the Sounds",
+      "unrelatedScene": false,
+      "workspaceOverflow": false
+    },
+    {
+      "size": {
+        "width": 768,
+        "height": 1024
+      },
+      "mode": "count-sounds",
+      "bad": [],
+      "bodyOverflow": false,
+      "picture": "bee",
+      "picturePanelHidden": false,
+      "question": "Question 1 / 30",
+      "title": "Count the Sounds",
+      "unrelatedScene": false,
+      "workspaceOverflow": false
+    },
+    {
+      "size": {
+        "width": 768,
+        "height": 1024
+      },
+      "mode": "change-sound",
+      "bad": [],
+      "bodyOverflow": false,
+      "picture": null,
+      "picturePanelHidden": true,
+      "question": "Question 1 / 30",
+      "title": "Change the Sound",
+      "unrelatedScene": false,
+      "workspaceOverflow": false
+    },
+    {
+      "size": {
+        "width": 768,
+        "height": 1024
+      },
+      "mode": "delete-sound",
+      "bad": [],
+      "bodyOverflow": false,
+      "picture": null,
+      "picturePanelHidden": true,
+      "question": "Question 1 / 30",
+      "title": "Delete the Sound",
+      "unrelatedScene": false,
+      "workspaceOverflow": false
+    },
+    {
+      "size": {
+        "width": 768,
+        "height": 1024
+      },
+      "mode": "first-sound",
+      "bad": [],
+      "bodyOverflow": false,
+      "picture": "sun",
+      "picturePanelHidden": false,
+      "question": "Question 1 / 30",
+      "title": "Find the First Sound",
+      "unrelatedScene": false,
+      "workspaceOverflow": false
+    },
+    {
+      "size": {
+        "width": 1024,
+        "height": 600
+      },
+      "mode": "build-word",
+      "bad": [],
+      "bodyOverflow": false,
+      "workspaceOverflow": false
+    },
+    {
+      "size": {
+        "width": 1024,
+        "height": 600
+      },
+      "mode": "choose-word",
+      "bad": [],
+      "bodyOverflow": false,
+      "workspaceOverflow": false
+    },
+    {
+      "size": {
+        "width": 1024,
+        "height": 600
+      },
+      "mode": "missing-letter",
+      "bad": [],
+      "bodyOverflow": false,
+      "workspaceOverflow": false
+    },
+    {
+      "size": {
+        "width": 1024,
+        "height": 600
+      },
+      "mode": "word-chains",
+      "bad": [],
+      "bodyOverflow": false,
+      "workspaceOverflow": false
+    },
+    {
+      "size": {
+        "width": 1024,
+        "height": 600
+      },
+      "mode": "read-match",
+      "bad": [],
+      "bodyOverflow": false,
+      "workspaceOverflow": false
+    },
+    {
+      "size": {
+        "width": 1024,
+        "height": 600
+      },
+      "mode": "blend-sounds",
+      "bad": [],
+      "bodyOverflow": false,
+      "workspaceOverflow": false
+    },
+    {
+      "size": {
+        "width": 1024,
+        "height": 600
+      },
+      "mode": "count-sounds",
+      "bad": [],
+      "bodyOverflow": false,
+      "workspaceOverflow": false
+    },
+    {
+      "size": {
+        "width": 1024,
+        "height": 600
+      },
+      "mode": "change-sound",
+      "bad": [],
+      "bodyOverflow": false,
+      "workspaceOverflow": false
+    },
+    {
+      "size": {
+        "width": 1024,
+        "height": 600
+      },
+      "mode": "delete-sound",
+      "bad": [],
+      "bodyOverflow": false,
+      "workspaceOverflow": false
+    },
+    {
+      "size": {
+        "width": 1024,
+        "height": 600
+      },
+      "mode": "first-sound",
+      "bad": [],
+      "bodyOverflow": false,
+      "workspaceOverflow": false
+    },
+    {
+      "size": {
+        "width": 600,
+        "height": 800
+      },
+      "mode": "build-word",
+      "bad": [],
+      "bodyOverflow": false,
+      "workspaceOverflow": false
+    },
+    {
+      "size": {
+        "width": 600,
+        "height": 800
+      },
+      "mode": "choose-word",
+      "bad": [],
+      "bodyOverflow": false,
+      "workspaceOverflow": false
+    },
+    {
+      "size": {
+        "width": 600,
+        "height": 800
+      },
+      "mode": "missing-letter",
+      "bad": [],
+      "bodyOverflow": false,
+      "workspaceOverflow": false
+    },
+    {
+      "size": {
+        "width": 600,
+        "height": 800
+      },
+      "mode": "word-chains",
+      "bad": [],
+      "bodyOverflow": false,
+      "workspaceOverflow": false
+    },
+    {
+      "size": {
+        "width": 600,
+        "height": 800
+      },
+      "mode": "read-match",
+      "bad": [],
+      "bodyOverflow": false,
+      "workspaceOverflow": false
+    },
+    {
+      "size": {
+        "width": 600,
+        "height": 800
+      },
+      "mode": "blend-sounds",
+      "bad": [],
+      "bodyOverflow": false,
+      "workspaceOverflow": false
+    },
+    {
+      "size": {
+        "width": 600,
+        "height": 800
+      },
+      "mode": "count-sounds",
+      "bad": [],
+      "bodyOverflow": false,
+      "workspaceOverflow": false
+    },
+    {
+      "size": {
+        "width": 600,
+        "height": 800
+      },
+      "mode": "change-sound",
+      "bad": [],
+      "bodyOverflow": false,
+      "workspaceOverflow": false
+    },
+    {
+      "size": {
+        "width": 600,
+        "height": 800
+      },
+      "mode": "delete-sound",
+      "bad": [],
+      "bodyOverflow": false,
+      "workspaceOverflow": false
+    },
+    {
+      "size": {
+        "width": 600,
+        "height": 800
+      },
+      "mode": "first-sound",
+      "bad": [],
+      "bodyOverflow": false,
+      "workspaceOverflow": false
+    },
+    {
+      "size": {
+        "width": 390,
+        "height": 844
+      },
+      "mode": "build-word",
+      "bad": [],
+      "bodyOverflow": false,
+      "workspaceOverflow": false
+    },
+    {
+      "size": {
+        "width": 390,
+        "height": 844
+      },
+      "mode": "choose-word",
+      "bad": [],
+      "bodyOverflow": false,
+      "workspaceOverflow": false
+    },
+    {
+      "size": {
+        "width": 390,
+        "height": 844
+      },
+      "mode": "missing-letter",
+      "bad": [],
+      "bodyOverflow": false,
+      "workspaceOverflow": false
+    },
+    {
+      "size": {
+        "width": 390,
+        "height": 844
+      },
+      "mode": "word-chains",
+      "bad": [],
+      "bodyOverflow": false,
+      "workspaceOverflow": false
+    },
+    {
+      "size": {
+        "width": 390,
+        "height": 844
+      },
+      "mode": "read-match",
+      "bad": [],
+      "bodyOverflow": false,
+      "workspaceOverflow": false
+    },
+    {
+      "size": {
+        "width": 390,
+        "height": 844
+      },
+      "mode": "blend-sounds",
+      "bad": [],
+      "bodyOverflow": false,
+      "workspaceOverflow": false
+    },
+    {
+      "size": {
+        "width": 390,
+        "height": 844
+      },
+      "mode": "count-sounds",
+      "bad": [],
+      "bodyOverflow": false,
+      "workspaceOverflow": false
+    },
+    {
+      "size": {
+        "width": 390,
+        "height": 844
+      },
+      "mode": "change-sound",
+      "bad": [],
+      "bodyOverflow": false,
+      "workspaceOverflow": false
+    },
+    {
+      "size": {
+        "width": 390,
+        "height": 844
+      },
+      "mode": "delete-sound",
+      "bad": [],
+      "bodyOverflow": false,
+      "workspaceOverflow": false
+    },
+    {
+      "size": {
+        "width": 390,
+        "height": 844
+      },
+      "mode": "first-sound",
+      "bad": [],
+      "bodyOverflow": false,
+      "workspaceOverflow": false
+    }
+  ],
+  "viewportChecks": 60,
+  "failures": [],
+  "largestSoundCountQuestion": "plant: 5 sounds, question 30",
+  "sentenceMatchingQuestion": "The dog has a stick: matched autumn scene among choices",
+  "correctAnswerFeedbackVerified": true
+}

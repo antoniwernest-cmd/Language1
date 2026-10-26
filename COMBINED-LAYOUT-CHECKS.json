@@ -1,0 +1,790 @@
+{
+  "menuChecks": [
+    {
+      "size": {
+        "width": 1366,
+        "height": 768
+      },
+      "section": "shared",
+      "bad": [],
+      "pageOverflow": false,
+      "scrolls": []
+    },
+    {
+      "size": {
+        "width": 1366,
+        "height": 768
+      },
+      "section": "autumn",
+      "bad": [],
+      "pageOverflow": false,
+      "scrolls": []
+    },
+    {
+      "size": {
+        "width": 1366,
+        "height": 768
+      },
+      "section": "reading",
+      "bad": [],
+      "pageOverflow": false,
+      "scrolls": []
+    },
+    {
+      "size": {
+        "width": 1366,
+        "height": 768
+      },
+      "section": "skills",
+      "bad": [],
+      "pageOverflow": false,
+      "scrolls": []
+    },
+    {
+      "size": {
+        "width": 1366,
+        "height": 768
+      },
+      "section": "skills-Magic Cat",
+      "bad": [],
+      "pageOverflow": false,
+      "scrolls": []
+    },
+    {
+      "size": {
+        "width": 1366,
+        "height": 768
+      },
+      "section": "skills-Mystic Cat",
+      "bad": [],
+      "pageOverflow": false,
+      "scrolls": []
+    },
+    {
+      "size": {
+        "width": 1024,
+        "height": 600
+      },
+      "section": "shared",
+      "bad": [],
+      "pageOverflow": false,
+      "scrolls": []
+    },
+    {
+      "size": {
+        "width": 1024,
+        "height": 600
+      },
+      "section": "autumn",
+      "bad": [],
+      "pageOverflow": false,
+      "scrolls": []
+    },
+    {
+      "size": {
+        "width": 1024,
+        "height": 600
+      },
+      "section": "reading",
+      "bad": [],
+      "pageOverflow": false,
+      "scrolls": []
+    },
+    {
+      "size": {
+        "width": 1024,
+        "height": 600
+      },
+      "section": "skills",
+      "bad": [],
+      "pageOverflow": false,
+      "scrolls": []
+    },
+    {
+      "size": {
+        "width": 1024,
+        "height": 600
+      },
+      "section": "skills-Magic Cat",
+      "bad": [],
+      "pageOverflow": false,
+      "scrolls": []
+    },
+    {
+      "size": {
+        "width": 1024,
+        "height": 600
+      },
+      "section": "skills-Mystic Cat",
+      "bad": [],
+      "pageOverflow": false,
+      "scrolls": []
+    },
+    {
+      "size": {
+        "width": 1024,
+        "height": 768
+      },
+      "section": "shared",
+      "bad": [],
+      "pageOverflow": false,
+      "scrolls": []
+    },
+    {
+      "size": {
+        "width": 1024,
+        "height": 768
+      },
+      "section": "autumn",
+      "bad": [],
+      "pageOverflow": false,
+      "scrolls": []
+    },
+    {
+      "size": {
+        "width": 1024,
+        "height": 768
+      },
+      "section": "reading",
+      "bad": [],
+      "pageOverflow": false,
+      "scrolls": []
+    },
+    {
+      "size": {
+        "width": 1024,
+        "height": 768
+      },
+      "section": "skills",
+      "bad": [],
+      "pageOverflow": false,
+      "scrolls": []
+    },
+    {
+      "size": {
+        "width": 1024,
+        "height": 768
+      },
+      "section": "skills-Magic Cat",
+      "bad": [],
+      "pageOverflow": false,
+      "scrolls": []
+    },
+    {
+      "size": {
+        "width": 1024,
+        "height": 768
+      },
+      "section": "skills-Mystic Cat",
+      "bad": [],
+      "pageOverflow": false,
+      "scrolls": []
+    },
+    {
+      "size": {
+        "width": 768,
+        "height": 1024
+      },
+      "section": "shared",
+      "bad": [],
+      "pageOverflow": false,
+      "scrolls": []
+    },
+    {
+      "size": {
+        "width": 768,
+        "height": 1024
+      },
+      "section": "autumn",
+      "bad": [],
+      "pageOverflow": false,
+      "scrolls": []
+    },
+    {
+      "size": {
+        "width": 768,
+        "height": 1024
+      },
+      "section": "reading",
+      "bad": [],
+      "pageOverflow": false,
+      "scrolls": []
+    },
+    {
+      "size": {
+        "width": 768,
+        "height": 1024
+      },
+      "section": "skills",
+      "bad": [],
+      "pageOverflow": false,
+      "scrolls": []
+    },
+    {
+      "size": {
+        "width": 768,
+        "height": 1024
+      },
+      "section": "skills-Magic Cat",
+      "bad": [],
+      "pageOverflow": false,
+      "scrolls": []
+    },
+    {
+      "size": {
+        "width": 768,
+        "height": 1024
+      },
+      "section": "skills-Mystic Cat",
+      "bad": [],
+      "pageOverflow": false,
+      "scrolls": []
+    },
+    {
+      "size": {
+        "width": 600,
+        "height": 800
+      },
+      "section": "shared",
+      "bad": [],
+      "pageOverflow": false,
+      "scrolls": []
+    },
+    {
+      "size": {
+        "width": 600,
+        "height": 800
+      },
+      "section": "autumn",
+      "bad": [],
+      "pageOverflow": false,
+      "scrolls": []
+    },
+    {
+      "size": {
+        "width": 600,
+        "height": 800
+      },
+      "section": "reading",
+      "bad": [],
+      "pageOverflow": false,
+      "scrolls": []
+    },
+    {
+      "size": {
+        "width": 600,
+        "height": 800
+      },
+      "section": "skills",
+      "bad": [],
+      "pageOverflow": false,
+      "scrolls": []
+    },
+    {
+      "size": {
+        "width": 600,
+        "height": 800
+      },
+      "section": "skills-Magic Cat",
+      "bad": [],
+      "pageOverflow": false,
+      "scrolls": []
+    },
+    {
+      "size": {
+        "width": 600,
+        "height": 800
+      },
+      "section": "skills-Mystic Cat",
+      "bad": [],
+      "pageOverflow": false,
+      "scrolls": []
+    },
+    {
+      "size": {
+        "width": 390,
+        "height": 844
+      },
+      "section": "shared",
+      "bad": [],
+      "pageOverflow": false,
+      "scrolls": []
+    },
+    {
+      "size": {
+        "width": 390,
+        "height": 844
+      },
+      "section": "autumn",
+      "bad": [],
+      "pageOverflow": false,
+      "scrolls": []
+    },
+    {
+      "size": {
+        "width": 390,
+        "height": 844
+      },
+      "section": "reading",
+      "bad": [],
+      "pageOverflow": false,
+      "scrolls": []
+    },
+    {
+      "size": {
+        "width": 390,
+        "height": 844
+      },
+      "section": "skills",
+      "bad": [],
+      "pageOverflow": false,
+      "scrolls": []
+    },
+    {
+      "size": {
+        "width": 390,
+        "height": 844
+      },
+      "section": "skills-Magic Cat",
+      "bad": [],
+      "pageOverflow": false,
+      "scrolls": []
+    },
+    {
+      "size": {
+        "width": 390,
+        "height": 844
+      },
+      "section": "skills-Mystic Cat",
+      "bad": [],
+      "pageOverflow": false,
+      "scrolls": []
+    }
+  ],
+  "importedProjectChecks": [
+    {
+      "size": {
+        "width": 1024,
+        "height": 768
+      },
+      "project": "Short Vowels",
+      "bad": [],
+      "pageOverflow": false,
+      "scrolls": [],
+      "brokenImages": [],
+      "headings": [
+        "Complete the sentence"
+      ],
+      "selectedLevel": "CC"
+    },
+    {
+      "size": {
+        "width": 1024,
+        "height": 768
+      },
+      "project": "Word Endings",
+      "bad": [],
+      "pageOverflow": false,
+      "scrolls": [],
+      "brokenImages": [],
+      "headings": [
+        "Complete the sentence"
+      ],
+      "selectedLevel": "CC"
+    },
+    {
+      "size": {
+        "width": 1024,
+        "height": 768
+      },
+      "project": "Neighbour Master",
+      "bad": [],
+      "pageOverflow": false,
+      "scrolls": [],
+      "brokenImages": [],
+      "headings": [
+        "Complete the sentence"
+      ],
+      "selectedLevel": "CC"
+    },
+    {
+      "size": {
+        "width": 1024,
+        "height": 768
+      },
+      "project": "Blend Master",
+      "bad": [],
+      "pageOverflow": false,
+      "scrolls": [],
+      "brokenImages": [],
+      "headings": [
+        "Complete the sentence"
+      ],
+      "selectedLevel": "CC"
+    },
+    {
+      "size": {
+        "width": 1024,
+        "height": 768
+      },
+      "project": "Compound Master",
+      "bad": [],
+      "pageOverflow": false,
+      "scrolls": [],
+      "brokenImages": [],
+      "headings": [
+        "Complete the sentence"
+      ],
+      "selectedLevel": "CC"
+    },
+    {
+      "size": {
+        "width": 1024,
+        "height": 768
+      },
+      "project": "Control Panel",
+      "bad": [],
+      "pageOverflow": false,
+      "scrolls": [],
+      "brokenImages": [],
+      "headings": [
+        "Complete the sentence"
+      ],
+      "selectedLevel": "CC"
+    },
+    {
+      "size": {
+        "width": 1024,
+        "height": 768
+      },
+      "project": "Magic Cat B",
+      "bad": [],
+      "pageOverflow": false,
+      "scrolls": [],
+      "brokenImages": [],
+      "headings": [
+        "Magic Cat B"
+      ],
+      "selectedLevel": null
+    },
+    {
+      "size": {
+        "width": 1024,
+        "height": 768
+      },
+      "project": "Magic Cat C",
+      "bad": [],
+      "pageOverflow": false,
+      "scrolls": [],
+      "brokenImages": [],
+      "headings": [
+        "Magic Cat C"
+      ],
+      "selectedLevel": null
+    },
+    {
+      "size": {
+        "width": 1024,
+        "height": 768
+      },
+      "project": "Magic Cat",
+      "bad": [],
+      "pageOverflow": false,
+      "scrolls": [],
+      "brokenImages": [],
+      "headings": [
+        "Magic Cat"
+      ],
+      "selectedLevel": null
+    },
+    {
+      "size": {
+        "width": 1024,
+        "height": 768
+      },
+      "project": "Spelling Master",
+      "bad": [],
+      "pageOverflow": false,
+      "scrolls": [],
+      "brokenImages": [],
+      "headings": [
+        "Spell the missing word"
+      ],
+      "selectedLevel": "A"
+    },
+    {
+      "size": {
+        "width": 1024,
+        "height": 768
+      },
+      "project": "ABC Sentences",
+      "bad": [],
+      "pageOverflow": false,
+      "scrolls": [],
+      "brokenImages": [],
+      "headings": [
+        "Mystic Cat"
+      ],
+      "selectedLevel": null
+    },
+    {
+      "size": {
+        "width": 1024,
+        "height": 768
+      },
+      "project": "Grade 1 CVC",
+      "bad": [],
+      "pageOverflow": false,
+      "scrolls": [],
+      "brokenImages": [],
+      "headings": [
+        "Mystic Cat Grade 1"
+      ],
+      "selectedLevel": null
+    },
+    {
+      "size": {
+        "width": 1024,
+        "height": 768
+      },
+      "project": "Affirmations",
+      "bad": [],
+      "pageOverflow": false,
+      "scrolls": [],
+      "brokenImages": [],
+      "headings": [
+        "Mystic Cat"
+      ],
+      "selectedLevel": null
+    },
+    {
+      "size": {
+        "width": 1024,
+        "height": 768
+      },
+      "project": "Halloween Sentences",
+      "bad": [],
+      "pageOverflow": false,
+      "scrolls": [],
+      "brokenImages": [],
+      "headings": [
+        "Mystic Halloween Cat"
+      ],
+      "selectedLevel": null
+    },
+    {
+      "size": {
+        "width": 768,
+        "height": 1024
+      },
+      "project": "Short Vowels",
+      "bad": [],
+      "pageOverflow": false,
+      "scrolls": [],
+      "brokenImages": [],
+      "headings": [
+        "Complete the sentence"
+      ],
+      "selectedLevel": "CC"
+    },
+    {
+      "size": {
+        "width": 768,
+        "height": 1024
+      },
+      "project": "Word Endings",
+      "bad": [],
+      "pageOverflow": false,
+      "scrolls": [],
+      "brokenImages": [],
+      "headings": [
+        "Complete the sentence"
+      ],
+      "selectedLevel": "CC"
+    },
+    {
+      "size": {
+        "width": 768,
+        "height": 1024
+      },
+      "project": "Neighbour Master",
+      "bad": [],
+      "pageOverflow": false,
+      "scrolls": [],
+      "brokenImages": [],
+      "headings": [
+        "Complete the sentence"
+      ],
+      "selectedLevel": "CC"
+    },
+    {
+      "size": {
+        "width": 768,
+        "height": 1024
+      },
+      "project": "Blend Master",
+      "bad": [],
+      "pageOverflow": false,
+      "scrolls": [],
+      "brokenImages": [],
+      "headings": [
+        "Complete the sentence"
+      ],
+      "selectedLevel": "CC"
+    },
+    {
+      "size": {
+        "width": 768,
+        "height": 1024
+      },
+      "project": "Compound Master",
+      "bad": [],
+      "pageOverflow": false,
+      "scrolls": [],
+      "brokenImages": [],
+      "headings": [
+        "Complete the sentence"
+      ],
+      "selectedLevel": "CC"
+    },
+    {
+      "size": {
+        "width": 768,
+        "height": 1024
+      },
+      "project": "Control Panel",
+      "bad": [],
+      "pageOverflow": false,
+      "scrolls": [],
+      "brokenImages": [],
+      "headings": [
+        "Complete the sentence"
+      ],
+      "selectedLevel": "CC"
+    },
+    {
+      "size": {
+        "width": 768,
+        "height": 1024
+      },
+      "project": "Magic Cat B",
+      "bad": [],
+      "pageOverflow": false,
+      "scrolls": [],
+      "brokenImages": [],
+      "headings": [
+        "Magic Cat B"
+      ],
+      "selectedLevel": null
+    },
+    {
+      "size": {
+        "width": 768,
+        "height": 1024
+      },
+      "project": "Magic Cat C",
+      "bad": [],
+      "pageOverflow": false,
+      "scrolls": [],
+      "brokenImages": [],
+      "headings": [
+        "Magic Cat C"
+      ],
+      "selectedLevel": null
+    },
+    {
+      "size": {
+        "width": 768,
+        "height": 1024
+      },
+      "project": "Magic Cat",
+      "bad": [],
+      "pageOverflow": false,
+      "scrolls": [],
+      "brokenImages": [],
+      "headings": [
+        "Magic Cat"
+      ],
+      "selectedLevel": null
+    },
+    {
+      "size": {
+        "width": 768,
+        "height": 1024
+      },
+      "project": "Spelling Master",
+      "bad": [],
+      "pageOverflow": false,
+      "scrolls": [],
+      "brokenImages": [],
+      "headings": [
+        "Spell the missing word"
+      ],
+      "selectedLevel": "A"
+    },
+    {
+      "size": {
+        "width": 768,
+        "height": 1024
+      },
+      "project": "ABC Sentences",
+      "bad": [],
+      "pageOverflow": false,
+      "scrolls": [],
+      "brokenImages": [],
+      "headings": [
+        "Mystic Cat"
+      ],
+      "selectedLevel": null
+    },
+    {
+      "size": {
+        "width": 768,
+        "height": 1024
+      },
+      "project": "Grade 1 CVC",
+      "bad": [],
+      "pageOverflow": false,
+      "scrolls": [],
+      "brokenImages": [],
+      "headings": [
+        "Mystic Cat Grade 1"
+      ],
+      "selectedLevel": null
+    },
+    {
+      "size": {
+        "width": 768,
+        "height": 1024
+      },
+      "project": "Affirmations",
+      "bad": [],
+      "pageOverflow": false,
+      "scrolls": [],
+      "brokenImages": [],
+      "headings": [
+        "Mystic Cat"
+      ],
+      "selectedLevel": null
+    },
+    {
+      "size": {
+        "width": 768,
+        "height": 1024
+      },
+      "project": "Halloween Sentences",
+      "bad": [],
+      "pageOverflow": false,
+      "scrolls": [],
+      "brokenImages": [],
+      "headings": [
+        "Mystic Halloween Cat"
+      ],
+      "selectedLevel": null
+    }
+  ],
+  "totalChecks": 64,
+  "failures": [],
+  "returnFromMysticToSkillsAndSharedMenuVerified": true,
+  "uniqueActivityEntries": 32
+}

@@ -1,0 +1,261 @@
+{
+  "total": 32,
+  "collections": {
+    "reading": 8,
+    "autumn": 10,
+    "skills": 14
+  },
+  "activities": [
+    {
+      "id": "autumn-build-word",
+      "title": "Build the Word",
+      "collection": "Autumn Adventures",
+      "entry": "index.html#build-word",
+      "source": "Existing Autumn project"
+    },
+    {
+      "id": "autumn-choose-word",
+      "title": "Choose the Correct Word",
+      "collection": "Autumn Adventures",
+      "entry": "index.html#choose-word",
+      "source": "Existing Autumn project"
+    },
+    {
+      "id": "autumn-missing-letter",
+      "title": "Missing Letter",
+      "collection": "Autumn Adventures",
+      "entry": "index.html#missing-letter",
+      "source": "Existing Autumn project"
+    },
+    {
+      "id": "autumn-word-chains",
+      "title": "Word Chains",
+      "collection": "Autumn Adventures",
+      "entry": "index.html#word-chains",
+      "source": "Existing Autumn project"
+    },
+    {
+      "id": "autumn-read-match",
+      "title": "Read and Match",
+      "collection": "Autumn Adventures",
+      "entry": "index.html#read-match",
+      "source": "Existing Autumn project"
+    },
+    {
+      "id": "autumn-blend-sounds",
+      "title": "Blend the Sounds",
+      "collection": "Autumn Adventures",
+      "entry": "index.html#blend-sounds",
+      "source": "Existing Autumn project"
+    },
+    {
+      "id": "autumn-count-sounds",
+      "title": "Count the Sounds",
+      "collection": "Autumn Adventures",
+      "entry": "index.html#count-sounds",
+      "source": "Existing Autumn project"
+    },
+    {
+      "id": "autumn-change-sound",
+      "title": "Change the Sound",
+      "collection": "Autumn Adventures",
+      "entry": "index.html#change-sound",
+      "source": "Existing Autumn project"
+    },
+    {
+      "id": "autumn-delete-sound",
+      "title": "Delete the Sound",
+      "collection": "Autumn Adventures",
+      "entry": "index.html#delete-sound",
+      "source": "Existing Autumn project"
+    },
+    {
+      "id": "autumn-first-sound",
+      "title": "Find the First Sound",
+      "collection": "Autumn Adventures",
+      "entry": "index.html#first-sound",
+      "source": "Existing Autumn project"
+    },
+    {
+      "id": "reading-sentence-adventures-1",
+      "title": "Sentence Adventures 1",
+      "collection": "Reading Adventures",
+      "entry": "Reading-Adventures/Sentence-Adventures/activity.html",
+      "source": "Existing Reading Adventures collection"
+    },
+    {
+      "id": "reading-sentence-adventures-2",
+      "title": "Sentence Adventures 2",
+      "collection": "Reading Adventures",
+      "entry": "Reading-Adventures/Sentences-Adventures-2/activity.html",
+      "source": "Existing Reading Adventures collection"
+    },
+    {
+      "id": "reading-before-and-after",
+      "title": "Before and After",
+      "collection": "Reading Adventures",
+      "entry": "Reading-Adventures/Before-and-After-Adventures/activity.html",
+      "source": "Existing Reading Adventures collection"
+    },
+    {
+      "id": "reading-letter-writing",
+      "title": "Letter Writing",
+      "collection": "Reading Adventures",
+      "entry": "Reading-Adventures/Letter-Writing/activity.html",
+      "source": "Existing Reading Adventures collection"
+    },
+    {
+      "id": "reading-pronoun-detective",
+      "title": "Pronoun Detective",
+      "collection": "Reading Adventures",
+      "entry": "Reading-Adventures/Language-Adventures/activity.html?game=pronoun",
+      "source": "Existing Reading Adventures collection"
+    },
+    {
+      "id": "reading-homophone-harbour",
+      "title": "Homophone Harbour",
+      "collection": "Reading Adventures",
+      "entry": "Reading-Adventures/Language-Adventures/activity.html?game=homophone",
+      "source": "Existing Reading Adventures collection"
+    },
+    {
+      "id": "reading-paragraph-builder",
+      "title": "Paragraph Builder",
+      "collection": "Reading Adventures",
+      "entry": "Reading-Adventures/Language-Adventures/activity.html?game=paragraph",
+      "source": "Existing Reading Adventures collection"
+    },
+    {
+      "id": "reading-meaning-master",
+      "title": "Meaning Master",
+      "collection": "Reading Adventures",
+      "entry": "Reading-Adventures/Language-Adventures/activity.html?game=meaning",
+      "source": "Existing Reading Adventures collection"
+    },
+    {
+      "id": "skills-short-vowels",
+      "title": "Short Vowels",
+      "collection": "Word & Reading Skills",
+      "entry": "Word-and-Reading-Skills/Short-Vowels/index.html",
+      "source": "C:\\Users\\anton\\Documents\\Codex\\2026-10-11\\fin\\outputs\\Short-Vowels\\index.html",
+      "sourceHash": "1c519a7cedcc2576d24abe88cbb48432548aefe3f084bf48789388d13e1b783b"
+    },
+    {
+      "id": "skills-word-endings",
+      "title": "Word Endings",
+      "collection": "Word & Reading Skills",
+      "entry": "Word-and-Reading-Skills/Word-Endings/index.html",
+      "source": "C:\\Users\\anton\\Documents\\Codex\\2026-10-11\\fin\\outputs\\Word-Endings\\index.html",
+      "sourceHash": "80666c91ded0b610d44d6cee8fd1317b8ee4eec05a21b7444d019a07ce61e85d"
+    },
+    {
+      "id": "skills-neighbour-master",
+      "title": "Neighbour Master",
+      "collection": "Word & Reading Skills",
+      "entry": "Word-and-Reading-Skills/Neighbour-Master/index.html",
+      "source": "C:\\Users\\anton\\Documents\\Codex\\2026-10-11\\fin\\outputs\\Neighbour-Master\\index.html",
+      "sourceHash": "4db3cfeb18f7515022ae2a53858df3fd49a8ab6a7468008587187553df4e3a2e"
+    },
+    {
+      "id": "skills-blend-master",
+      "title": "Blend Master",
+      "collection": "Word & Reading Skills",
+      "entry": "Word-and-Reading-Skills/Blend-Master/index.html",
+      "source": "C:\\Users\\anton\\Documents\\Codex\\2026-10-11\\fin\\outputs\\Blend-Master\\index.html",
+      "sourceHash": "147f4f9f52697b86b7972c1b45697e9643138fc3746ffbc3a6133f3d30719310"
+    },
+    {
+      "id": "skills-compound-master",
+      "title": "Compound Master",
+      "collection": "Word & Reading Skills",
+      "entry": "Word-and-Reading-Skills/Compound-Master/index.html",
+      "source": "C:\\Users\\anton\\Documents\\Codex\\2026-10-11\\fin\\outputs\\Compound-Master\\index.html",
+      "sourceHash": "dceb37f58a05a4cd1a75afd62a64db7bc6b2e22b43e426eb27381b60a018ad88"
+    },
+    {
+      "id": "skills-control-panel",
+      "title": "Control Panel",
+      "collection": "Word & Reading Skills",
+      "entry": "Word-and-Reading-Skills/Control-Panel/index.html",
+      "source": "C:\\Users\\anton\\Documents\\Codex\\2026-10-11\\fin\\outputs\\Control-Panel\\index.html",
+      "sourceHash": "a70d1cfaf8d117791812073b50035a1871451d9a7edf187fd7388229749a00a5"
+    },
+    {
+      "id": "skills-magic-cat-b",
+      "title": "Magic Cat B",
+      "collection": "Word & Reading Skills",
+      "entry": "Word-and-Reading-Skills/Magic-Cat-B/index.html",
+      "source": "C:\\Users\\anton\\Documents\\Codex\\2026-10-11\\fin\\outputs\\Magic-Cat-B\\index.html",
+      "sourceHash": "67dfdcb2621386d70666e1f65f0f45717517af1f9efa53b61eb9277653ca1a70"
+    },
+    {
+      "id": "skills-magic-cat-c",
+      "title": "Magic Cat C",
+      "collection": "Word & Reading Skills",
+      "entry": "Word-and-Reading-Skills/Magic-Cat-C/index.html",
+      "source": "C:\\Users\\anton\\Documents\\Codex\\2026-10-11\\fin\\outputs\\Magic-Cat-C\\index.html",
+      "sourceHash": "3d263e2d441e94b0c6f8c76031b159abddf329ab8c03e23e1c67b7d666b0dc99"
+    },
+    {
+      "id": "skills-magic-cat",
+      "title": "Magic Cat",
+      "collection": "Word & Reading Skills",
+      "entry": "Word-and-Reading-Skills/Magic-Cat-Multiple-Levels/index.html",
+      "source": "C:\\Users\\anton\\Documents\\Codex\\2026-10-11\\fin\\outputs\\Magic-Cat-Multiple-Levels\\index.html",
+      "sourceHash": "f7e7b97d174d46921f49b68e9040baebb7d1c8a331f626eaf24bf56806c4e55b"
+    },
+    {
+      "id": "skills-spelling-master",
+      "title": "Spelling Master",
+      "collection": "Word & Reading Skills",
+      "entry": "Word-and-Reading-Skills/Spelling-Master/index.html",
+      "source": "C:\\Users\\anton\\Documents\\Codex\\2026-10-11\\fin\\outputs\\Spelling-Master\\index.html",
+      "sourceHash": "b64c11d89380fbb799dc2ff5ce0a09e13f256bcc759bbcd074707de5f384d4a6"
+    },
+    {
+      "id": "skills-abc-sentences",
+      "title": "ABC Sentences",
+      "collection": "Word & Reading Skills",
+      "entry": "Word-and-Reading-Skills/Mystic-Series/ABC-Sentences/index.html",
+      "source": "C:\\Users\\anton\\Documents\\Codex\\2026-10-11\\fin\\outputs\\Mystic-Series\\ABC-Sentences\\index.html",
+      "sourceHash": "81859f6864437af4e65e24ece13a3b984d2093c5d43b172d95fc062cfdb1514f"
+    },
+    {
+      "id": "skills-grade-1-cvc",
+      "title": "Grade 1 CVC",
+      "collection": "Word & Reading Skills",
+      "entry": "Word-and-Reading-Skills/Mystic-Series/Grade-1-CVC/index.html",
+      "source": "C:\\Users\\anton\\Documents\\Codex\\2026-10-11\\fin\\outputs\\Mystic-Series\\Grade-1-CVC\\index.html",
+      "sourceHash": "418584a46f8d8e2c301d81b20b60fdd0ca520ffc2ea08498c83e2b2542cd91fd"
+    },
+    {
+      "id": "skills-affirmations",
+      "title": "Affirmations",
+      "collection": "Word & Reading Skills",
+      "entry": "Word-and-Reading-Skills/Mystic-Series/Affirmations/index.html",
+      "source": "C:\\Users\\anton\\Documents\\Codex\\2026-10-11\\fin\\outputs\\Mystic-Series\\Affirmations\\index.html",
+      "sourceHash": "4095efc538ddc303b96838660f3c8a7bb6184a19ccac7467bf5ee76d5f386929"
+    },
+    {
+      "id": "skills-halloween-sentences",
+      "title": "Halloween Sentences",
+      "collection": "Word & Reading Skills",
+      "entry": "Word-and-Reading-Skills/Mystic-Series/Halloween/index.html",
+      "source": "C:\\Users\\anton\\Documents\\Codex\\2026-10-11\\fin\\outputs\\Mystic-Series\\Halloween\\index.html",
+      "sourceHash": "e28b95eb8acbdc6bccbed14ea9d0a1f14591e5069daf9047ba78456190648710"
+    }
+  ],
+  "duplicatesExcluded": [
+    "Sentence Adventures 1 and 2 from the additional word-skills menu (already in Reading Adventures)",
+    "Unlinked Adventure1 copy of the complete Reading collection",
+    "Blend-Master/BlendMasterD",
+    "Blend-Master/BlendMasterE",
+    "Compound-Master/CompoundMasterA",
+    "Spelling-Master/Spelling Master A",
+    "Mystic-Series/ABC-Sentences/MysticCat",
+    "Mystic-Series/Grade-1-CVC/Mystsiccatgrade1",
+    "Mystic-Series/Halloween/halloweencatt",
+    "Mystic-Series/Halloween/MysticHalloweenCat"
+  ],
+  "localSourcesOnly": true
+}
